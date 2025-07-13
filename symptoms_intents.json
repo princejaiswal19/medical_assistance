@@ -1,0 +1,2191 @@
+{
+    "intents": [
+        {
+            "tag": "struggle drug abuse",
+            "patterns": [
+                "I'm dealing with a drug abuse problem.",
+                "I'm looking for support to overcome addiction.",
+                "Is there someone who can help me with my drug dependency?",
+                "I'm struggling with substance misuse and need guidance.",
+                "I'm in need of advice regarding my addiction issues.",
+                "I'm here because I'm battling addiction and need help.",
+                "Is there anyone who can assist me with my drug addiction?",
+                "I'm seeking assistance for my drug abuse problem.",
+                "I'm trying to find help for my addiction issues.",
+                "I need support in dealing with my drug dependency. Can you help?",
+                "I'm reaching out for help with my substance addiction.",
+                "I'm in a tough spot with drug addiction and need guidance.",
+                "Is there a way to get help for someone struggling with drug abuse?",
+                "I'm looking for resources to overcome drug addiction.",
+                "I'm here because I'm battling with substance misuse.",
+                "I'm seeking guidance for dealing with addiction problems.",
+                "I'm trying to find assistance for my drug dependency.",
+                "I'm facing challenges with addiction and need support.",
+                "Is there anyone who can provide assistance for drug abuse?",
+                "I'm struggling with substance addiction and need help."
+            ],
+            "responses": [
+                "Overcoming addiction is a challenging journey, but you're not alone. Our team is here to support you. Please visit our website for reporting drug abuse and information on drug abuse recovery programs.",
+                "It takes courage to seek help for drug dependency. You can connect with local support groups or professionals specializing in addiction counseling. If you need immediate assistance, please call [emergency number].",
+                "You're not alone in your battle against addiction. Our website provides a range of tools and information to help you navigate through this challenging time. Remember, seeking help is a sign of strength.",
+                "Acknowledging your struggle with drug abuse is a crucial first step. Our team is ready to assist you on your path to recovery. Explore our online resources and consider reaching out to local addiction helplines for personalized support.",
+                "Recovery is a journey, and you've taken the brave step of seeking assistance. Check out our website for articles, success stories, and practical tips to help you overcome addiction. Remember, every small effort counts.",
+                "Facing addiction is tough, but reaching out for help is a powerful decision. You can start by researching treatment options on our website or contacting addiction specialists who can guide you towards a healthier life.",
+                "Your commitment to overcoming drug addiction is commendable. Our platform offers a variety of tools and forums where you can connect with others facing similar challenges. Together, we can build a supportive community for recovery.",
+                "It's never too late to make positive changes in your life. Explore the resources on our website to understand different treatment approaches and find the support you need. Remember, recovery is a process, and you're taking the necessary steps.",
+                "We understand that asking for help can be difficult. Our team is here to provide information on treatment options, therapy, and community support. Take the first step towards a healthier future by exploring the resources available to you.",
+                "Overcoming addiction is a personal journey, and we're here to assist you every step of the way. Visit our website to access informative articles and connect with professionals who can tailor a recovery plan to suit your unique needs.",
+                "It's commendable that you're seeking help for your substance misuse. Our platform offers a safe space to share experiences, access educational materials, and connect with professionals who can guide you towards recovery.",
+                "You're not alone in your struggle, and there is support available. Explore our website for information on addiction treatment, recovery stories, and practical tips for maintaining sobriety. Remember, every positive choice brings you closer to a healthier life.",
+                "Taking control of your addiction requires strength and determination. Our resources cover a range of topics, from understanding the root causes of addiction to practical strategies for maintaining sobriety. We're here to support you on your journey to recovery."
+            ]
+        },
+        {
+            "tag": "Need for Change",
+            "patterns": [
+                "How do I overcome my drug addiction?",
+                "What steps can I take to break free from my drug abuse?",
+                "I want to make a change in my life and leave addiction behind.",
+                "How do I transition into a drug-free lifestyle?",
+                "I'm committed to quitting drugs. Can you help me with a plan?",
+                "Breaking free from addiction feels overwhelming. Where do I begin?",
+                "I'm tired of my addiction. How can I start the process of change?",
+                "I'm prepared to make a significant change in my life by quitting drugs.",
+                "What strategies can I use to overcome my addiction and make a change?",
+                "I'm determined to live a sober life. How do I get started?",
+                "I'm ready to break the cycle of addiction. What's the first step?",
+                "I'm looking for guidance on how to initiate a change and quit drugs.",
+                "I'm motivated to turn away from drugs. Where do I seek guidance?",
+                "How do I transform my life and break free from drug dependency?",
+                "I've decided to make a change and leave addiction behind. What's next?",
+                "I want to end my reliance on drugs. What actions should I take?",
+                "How can I transition from addiction to a healthier lifestyle?",
+                "I'm determined to overcome addiction. How do I proceed?",
+                "I want to start a new chapter in my life without drugs. What do I do?",
+                "I'm seeking advice on how to initiate change and quit using drugs."
+            ],
+            "responses": [
+                "Acknowledging the need for change is a crucial first step. Consider reaching out to a professional or a support group to discuss your goals and develop a personalized plan for overcoming drug addiction.",
+                "Breaking free from drug addiction is a commendable decision. Start by educating yourself about the recovery process, exploring available resources, and connecting with individuals who can offer support and guidance.",
+                "Making a change in your life and leaving addiction behind is a powerful commitment. Seek assistance from addiction counselors, support groups, or treatment programs to create a structured plan for your journey to recovery.",
+                "Transitioning into a drug-free lifestyle involves setting clear goals, establishing a support network, and considering professional help. Reach out to addiction specialists who can provide guidance on creating a healthier lifestyle.",
+                "Committed to quitting drugs? Develop a plan that includes specific goals, coping strategies, and a support system. Consider involving friends, family, or professionals who can offer encouragement and accountability.",
+                "Feeling overwhelmed about breaking free from addiction is normal. Start by seeking professional guidance to understand your options, and consider joining a support group where you can share your experiences and learn from others.",
+                "Tired of your addiction and ready for change? Take the first step by researching local addiction treatment centers, support groups, or counseling services. Reach out to professionals who can assist you on your journey.",
+                "Prepared to make a significant change by quitting drugs? Consult with addiction specialists who can help you create a personalized plan for recovery, addressing both physical and emotional aspects of addiction.",
+                "To overcome addiction and make a change, consider adopting strategies such as therapy, support groups, and lifestyle changes. Connect with professionals who specialize in addiction recovery for personalized guidance.",
+                "Determined to live a sober life? Start by setting realistic and achievable goals. Seek support from friends, family, or addiction professionals who can provide encouragement and assist you in navigating the challenges of recovery.",
+                "Ready to break the cycle of addiction? Begin by researching treatment options, creating a support network, and setting achievable milestones. Professional guidance can help you take the necessary steps towards a drug-free life.",
+                "Looking for guidance on initiating a change and quitting drugs? Connect with addiction counselors or support groups. They can provide valuable insights, resources, and assistance in developing a personalized plan for recovery.",
+                "Motivated to turn away from drugs? Reach out to addiction specialists, explore rehabilitation programs, and consider joining support groups. A structured plan with professional guidance can enhance your chances of success.",
+                "Transforming your life and breaking free from drug dependency is a significant decision. Seek support from addiction professionals, consider therapy, and explore community resources that align with your goals.",
+                "Decided to make a change and leave addiction behind? Take the next steps by seeking counseling, exploring treatment options, and building a support system. Professionals can assist you in your journey to recovery.",
+                "Ending reliance on drugs requires intentional actions. Connect with addiction specialists, consider therapy, and explore treatment options to create a roadmap for your recovery journey.",
+                "Transitioning from addiction to a healthier lifestyle involves setting goals, developing coping mechanisms, and seeking support. Reach out to professionals who can assist you in building a sustainable and drug-free life.",
+                "Determined to overcome addiction? Initiate the process by seeking professional help, joining support groups, and developing coping strategies. Building a strong support network is essential for a successful recovery.",
+                "Starting a new chapter without drugs is a commendable goal. Seek advice from addiction specialists, explore treatment options, and connect with support groups to create a roadmap for your drug-free life.",
+                "Seeking advice on initiating change and quitting drugs? Consult with addiction professionals, explore rehabilitation programs, and consider involving your support network. Taking the first step is a crucial milestone in your journey."
+            ]
+        },
+        {
+            "tag": "Recovery from Drug Abuse",
+            "patterns": [
+                "I'm on the journey to recover from drug abuse. Any advice?",
+                "How can I stay committed to my sobriety during the recovery process?",
+                "Are there resources for individuals recovering from drug abuse?",
+                "Can you provide guidance on overcoming setbacks in drug abuse recovery?",
+                "What strategies can help prevent relapse during drug abuse recovery?",
+                "I'm rebuilding my life after drug abuse. Any tips for a fresh start?",
+                "Are there community programs for individuals in drug abuse recovery?",
+                "How do I navigate relationships during my recovery from drug abuse?",
+                "I'm supporting a friend in recovery from drug abuse. How can I be most helpful?",
+                "Is there information on employment assistance for individuals in drug abuse recovery?",
+                "What role does therapy play in recovering from drug abuse?",
+                "Can you recommend books or articles on personal recovery stories from drug abuse?",
+                "How can I find sober social activities to engage in during drug abuse recovery?",
+                "Are there specific dietary recommendations for individuals in drug abuse recovery?",
+                "I want to celebrate milestones in my recovery from drug abuse. Any suggestions?",
+                "Is there a helpline for immediate support in times of crisis during drug abuse recovery?",
+                "What steps can I take to create a positive and supportive home environment for drug abuse recovery?",
+                "Can you provide resources on managing stress and mental health during drug abuse recovery?",
+                "Are there online communities for sharing experiences about the recovery journey from drug abuse?",
+                "How do I address feelings of guilt and shame in the recovery process from drug abuse?"
+            ],
+            "responses": [
+                "Congratulations on taking steps to recover from drug abuse! It's a challenging journey, but with commitment and support, positive change is possible. Surround yourself with a strong support network, and consider professional guidance. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Staying committed to sobriety during the recovery process involves setting realistic goals, attending support group meetings, and reaching out to a sponsor or mentor. Establish healthy routines and focus on self-care to reinforce your commitment. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Recovering from drug abuse is a courageous process. Explore local support groups, counseling services, and community programs specifically designed for individuals on the path to recovery. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Overcoming setbacks in drug abuse recovery is part of the journey. If you face challenges, reach out to your support network, adjust your recovery plan if needed, and consider seeking guidance from professionals. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Preventing relapse during drug abuse recovery involves recognizing triggers, developing coping strategies, and maintaining a strong support system. Regular check-ins with a therapist or counselor can provide ongoing support. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Rebuilding your life after drug abuse is a gradual process. Set realistic goals, establish a routine, and consider pursuing new interests or hobbies. Celebrate small victories and focus on building a positive future. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Community programs for individuals in drug abuse recovery may include support groups, vocational training, and recreational activities. Explore local resources or community centers for programs tailored to those in recovery. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Navigating relationships during drug abuse recovery requires open communication and setting healthy boundaries. Consider couples or family counseling to enhance communication skills and strengthen relationships. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Supporting a friend in recovery from drug abuse involves being understanding, encouraging their progress, and participating in activities that don't involve substances. Attend support group meetings together or engage in sober social events. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Employment assistance for individuals in drug abuse recovery may be available through local job placement services or organizations specializing in supporting those with a history of addiction. Explore available resources in your community. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Therapy plays a crucial role in recovering from drug abuse by addressing underlying issues, building coping skills, and providing ongoing support. Consider working with a therapist specializing in addiction recovery. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Personal recovery stories from drug abuse can be inspiring and educational. Explore literature that shares experiences of individuals who have successfully navigated the recovery journey. Local libraries or online platforms may have relevant resources. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Finding sober social activities during drug abuse recovery can involve joining clubs, sports leagues, or volunteer groups. Explore local community events or online platforms for sober activity ideas. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Maintaining a balanced and nutritious diet is important in drug abuse recovery. Consider consulting with a nutritionist for personalized dietary recommendations that support your physical and mental well-being. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Celebrating milestones in recovery from drug abuse is a significant achievement. Consider organizing a small gathering with supportive friends, treating yourself to a special activity, or reflecting on your personal growth. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "If you're facing a crisis during drug abuse recovery, don't hesitate to reach out for immediate support. Helplines are available to provide assistance, understanding, and guidance in times of need. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Creating a positive home environment for drug abuse recovery involves communication, support, and establishing healthy routines. Engage in open discussions with family members, set clear boundaries, and encourage positive activities at home. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Managing stress and mental health during drug abuse recovery is crucial. Consider mindfulness practices, meditation, and regular exercise to support your well-being. Reach out to a mental health professional for additional support. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Online communities for sharing experiences about the recovery journey from drug abuse can provide valuable insights and support. Explore forums, social media groups, or online platforms dedicated to individuals recovering from drug abuse. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra",
+                "Addressing feelings of guilt and shame in the recovery process from drug abuse requires self-compassion and forgiveness. Consider working with a therapist to explore and process these emotions, allowing for personal growth and healing. Some well known re-habilitation centers in Himachal Pradesh are: IGMC, Shimla, Psychiatry Department and Tanda Medical College, Kangra"
+            ]
+        },
+        {
+            "tag": "Withdrawal Symptoms",
+            "patterns": [
+                "I'm going through withdrawal and it's tough.",
+                "What should I expect during withdrawal?",
+                "I think I'm experiencing withdrawal. What do I do?",
+                "Are there ways to make withdrawal more manageable?",
+                "I'm feeling awful due to withdrawal symptoms.",
+                "Can you help me handle the symptoms of withdrawal?",
+                "I'm having withdrawal symptoms. How do I cope?",
+                "How long do withdrawal symptoms usually last?",
+                "What can I do to alleviate withdrawal discomfort?",
+                "I'm experiencing withdrawal. Is there any advice you can offer?",
+                "Are there specific techniques to deal with withdrawal symptoms?",
+                "What are the typical withdrawal signs I should watch out for?",
+                "I'm struggling with withdrawal. Can you assist me?",
+                "Is there a way to minimize the intensity of withdrawal symptoms?",
+                "I need guidance on managing withdrawal. Can you help?",
+                "How do I cope with the physical symptoms of withdrawal?",
+                "What steps can I take to handle withdrawal symptoms better?",
+                "I'm finding it hard to manage withdrawal. What can I do?",
+                "Are there natural remedies for alleviating withdrawal symptoms?",
+                "I want to ease the discomfort of withdrawal. Any suggestions?",
+                "I'm in the midst of withdrawal. How can I make it easier?",
+                "What strategies can I use to deal with withdrawal symptoms effectively?",
+                "I'm experiencing withdrawal effects. How do I manage?",
+                "Can withdrawal symptoms be dangerous? How do I stay safe?",
+                "I'm feeling overwhelmed by withdrawal symptoms. What now?",
+                "Are there medications that can help with withdrawal?",
+                "I'm encountering withdrawal symptoms. How can I cope emotionally?",
+                "Is there a timeline for when withdrawal symptoms peak and subside?",
+                "I need advice on handling withdrawal symptoms. Where do I start?",
+                "What can I do to reduce the severity of withdrawal symptoms?"
+            ],
+            "responses": [
+                "Withdrawal symptoms are common. I can help you manage them safely.",
+                "Withdrawal can be challenging, but there are ways to ease the discomfort.",
+                "Let's discuss strategies to cope with withdrawal symptoms."
+            ]
+        },
+        {
+            "tag": "Withdrawal Symptoms Strategies",
+            "patterns": [
+                "How can I alleviate withdrawal symptoms effectively?",
+                "I need strategies to cope with withdrawal symptoms.",
+                "Can you provide tips for managing withdrawal symptoms?",
+                "What are some effective ways to deal with withdrawal?",
+                "How do I find relief from withdrawal symptoms?",
+                "I'm seeking strategies to handle withdrawal. Any advice?",
+                "Are there specific techniques to ease withdrawal symptoms?",
+                "I need help managing the discomfort of withdrawal. What can I do?",
+                "What strategies can I use to make withdrawal symptoms more bearable?",
+                "How do I mitigate the effects of withdrawal?",
+                "Can you suggest practical ways to manage withdrawal symptoms?",
+                "I want to minimize the impact of withdrawal. Any strategies?",
+                "Are there lifestyle changes that help with withdrawal symptoms?",
+                "What self-care practices can help alleviate withdrawal symptoms?",
+                "I'm looking for effective strategies to cope with withdrawal.",
+                "How can I make the withdrawal process smoother?",
+                "What are some holistic approaches to managing withdrawal symptoms?",
+                "Are there exercises or activities that help during withdrawal?",
+                "What dietary changes can assist in reducing withdrawal symptoms?",
+                "I need strategies to handle both physical and emotional withdrawal symptoms.",
+                "Can you recommend relaxation techniques for coping with withdrawal?",
+                "How do I create a plan to address withdrawal symptoms?",
+                "Are there support groups or communities for managing withdrawal?",
+                "What role does mindfulness play in dealing with withdrawal symptoms?",
+                "How can I distract myself from the discomfort of withdrawal?",
+                "Can you suggest ways to manage withdrawal symptoms without medication?",
+                "I'm looking for natural remedies to ease withdrawal symptoms.",
+                "What strategies can I employ to prevent relapse during withdrawal?",
+                "How do I stay motivated while dealing with withdrawal symptoms?"
+            ],
+            "responses": [
+                "Certainly! Managing withdrawal symptoms involves a variety of strategies: Maintain hydration by drinking plenty of water throughout the day. Adequate sleep is crucial, so establish a regular sleep schedule. Engage in light exercises like walking or yoga to reduce stress. Practice deep breathing exercises to manage anxiety. Consider distraction techniques such as puzzles or hobbies to divert attention from discomfort. Seek support from therapy or counseling services to address emotional aspects.",
+                "Here's a breakdown of effective approaches to alleviate withdrawal symptoms: Prioritize nutrition by eating balanced meals and avoiding stimulants like caffeine or sugary foods. Incorporate mindfulness practices like meditation or progressive muscle relaxation. Stay physically active with exercises such as jogging, swimming, or cycling. Keep a journal to track symptoms and identify patterns. Connect with a support network, whether through family, friends, or support groups.",
+                "To ease withdrawal symptoms, consider these comprehensive strategies: Create a structured daily routine to provide a sense of stability. Practice mindfulness techniques such as mindful breathing or body scans. Engage in light exercises like stretching or tai chi for relaxation. Focus on healthy eating habits, emphasizing whole foods and adequate hydration. Seek professional guidance from a healthcare provider or addiction counselor for personalized support.",
+                "Managing withdrawal discomfort can include these detailed strategies: Practice self-care activities like taking warm baths or practicing aromatherapy. Stay hydrated by drinking water or herbal teas throughout the day. Incorporate relaxation techniques such as guided imagery or progressive muscle relaxation. Engage in hobbies or activities that bring joy and distract from symptoms. Consult with a healthcare professional to explore medication-assisted treatments or therapy options.",
+                "Absolutely! Here are specific methods to assist in handling withdrawal symptoms: Establish a consistent sleep schedule to ensure adequate rest. Consume nutritious meals, focusing on a balanced diet with fruits, vegetables, and whole grains. Engage in moderate exercise, such as brisk walking or yoga, to boost mood and alleviate symptoms. Explore holistic approaches like acupuncture or massage therapy for relaxation. Connect with a therapist or support group to address emotional challenges."
+            ]
+        },
+        {
+            "tag": "Relapse Prevention",
+            "patterns": [
+                "What steps can I take to avoid relapse?",
+                "I want to prevent a relapse. Any advice?",
+                "How do I stay on track and prevent relapse?",
+                "I'm worried about relapsing. What should I do?",
+                "What strategies help in preventing relapse?",
+                "I need guidance on avoiding a relapse.",
+                "Can you help me create a relapse prevention plan?",
+                "How do I bounce back after a relapse?",
+                "I feel tempted to relapse. What can I do?",
+                "What are the warning signs of an impending relapse?",
+                "I want to build resilience against relapse. How?",
+                "What habits can I cultivate to prevent relapse?",
+                "I need support to stay away from relapsing.",
+                "How do I deal with triggers to prevent a relapse?",
+                "Are there specific coping mechanisms for relapse prevention?",
+                "I'm determined to stay sober. How do I prevent relapse?",
+                "Can you provide strategies for long-term relapse prevention?",
+                "I've had a setback. How do I prevent future relapses?",
+                "How do I handle stress to avoid relapse?",
+                "I need guidance on maintaining sobriety and avoiding relapse."
+            ],
+            "responses": [
+                "To prevent relapse, it's essential to: Identify triggers and develop coping strategies to manage them effectively. Cultivate a strong support network through therapy, support groups, or trusted friends/family. Practice self-care and stress-management techniques such as mindfulness, exercise, and adequate sleep. Create a relapse prevention plan with specific steps to follow during challenging moments.",
+                "Staying focused on relapse prevention involves: Recognizing warning signs early, such as increased stress or negative emotions. Engaging in activities that bring joy or relaxation, like hobbies or spending time outdoors. Learning from past relapse experiences to refine coping strategies. Seeking professional guidance if feeling overwhelmed or at risk of relapse.",
+                "Building resilience against relapse includes: Practicing mindfulness to stay present and manage cravings effectively. Learning and implementing healthy coping mechanisms for stress and triggers. Creating a routine that supports sobriety, including regular exercise and healthy eating habits. Identifying and addressing underlying emotional or psychological issues that may contribute to relapse."
+            ]
+        },
+        {
+            "tag": "Triggers",
+            "patterns": [
+                "Certain situations trigger my cravings.",
+                "How do I manage triggers?",
+                "I feel overwhelmed by triggers.",
+                "What are common triggers for relapse?",
+                "How can I avoid situations that trigger cravings?",
+                "I need help identifying and handling triggers.",
+                "Can you provide strategies for dealing with triggers?",
+                "What strategies can I use to overcome triggers?",
+                "I'm worried about encountering triggers. What should I do?",
+                "How do I stay strong when facing triggers?",
+                "Are there specific coping mechanisms for dealing with triggers?",
+                "I want to understand my triggers better. Any advice?",
+                "How can I build resilience against triggers?",
+                "What can I do to minimize the impact of triggers?",
+                "I feel vulnerable to triggers. How do I protect myself?",
+                "Can you help me create a plan to manage triggers?",
+                "How do I recognize hidden triggers?",
+                "I need guidance on avoiding triggers that lead to cravings.",
+                "What steps can I take to cope with unexpected triggers?",
+                "I'm seeking strategies to handle triggers more effectively."
+            ],
+            "responses": [
+                "Understanding and managing triggers involves: Identifying specific situations, emotions, or people that prompt cravings. Developing coping strategies such as deep breathing, distraction techniques, or engaging in a hobby. Creating a plan to avoid or minimize exposure to triggers when possible. Seeking support from a therapist or support group to work through triggers.",
+                "Dealing with triggers requires: Learning to recognize and accept the presence of triggers without feeling overwhelmed. Using mindfulness techniques to stay present and manage cravings effectively. Practicing self-compassion and understanding that setbacks may occur, but they don't define progress. Engaging in activities that promote relaxation and reduce stress levels.",
+                "Building resilience against triggers includes: Engaging in cognitive-behavioral exercises to reframe thoughts about triggers. Developing a toolbox of coping skills like journaling, meditation, or talking to a trusted person when triggered. Creating a supportive environment by surrounding yourself with positive influences and minimizing exposure to triggers when possible. Seeking professional guidance to address underlying issues related to triggers."
+            ]
+        },
+        {
+            "tag": "Academic Pressure",
+            "patterns": [
+                "I'm feeling overwhelmed with academic pressure and need advice.",
+                "I'm struggling to cope with the academic workload. Can you help?",
+                "Is there someone who can provide guidance on managing academic stress?",
+                "I'm dealing with a lot of academic pressure and need support.",
+                "I'm in need of advice regarding the stress from my studies.",
+                "I'm here because I'm finding it hard to handle academic expectations.",
+                "Is there anyone who can assist me in managing academic pressure?",
+                "I'm seeking help for the stress caused by my studies.",
+                "I'm trying to find resources to cope with academic pressure.",
+                "I need support in dealing with the overwhelming academic workload. Can you help?",
+                "I'm reaching out for help with the pressure from my studies.",
+                "I'm in a tough spot with academic pressure and need guidance.",
+                "Is there a way to get help for someone struggling with the stress of studies?",
+                "I'm looking for advice to handle academic pressure.",
+                "I'm here because I'm battling with the stress of academics.",
+                "I'm seeking guidance for dealing with academic pressure.",
+                "I'm trying to find assistance for my overwhelming academic workload.",
+                "I'm facing challenges with academic pressure and need support.",
+                "Is there anyone who can provide assistance for academic stress?",
+                "I'm struggling with the pressure of academic expectations."
+            ],
+            "responses": [
+                "Dealing with academic pressure is tough, but you're not alone. It's important to prioritize self-care and seek support. Consider talking to a teacher, counselor, or a trusted friend about your concerns.",
+                "Managing academic pressure requires a balance. Make sure to break down tasks, set realistic goals, and take breaks when needed. Our website also offers resources on stress management techniques that may be helpful.",
+                "You're not the only one feeling the weight of academic pressure. Our platform provides articles and tips on effective study habits, time management, and stress reduction. Take a moment to explore these resources.",
+                "It's okay to ask for help when academic pressure becomes too much. Connect with your peers, form study groups, and consider talking to a mentor or counselor for guidance on how to navigate the challenges.",
+                "Acknowledging the stress from your studies is a crucial step. Our team is here to support you. Visit our website for articles and resources on coping with academic pressure and maintaining a healthy work-life balance.",
+                "Feeling overwhelmed with academic pressure is common. Take a step back, breathe, and consider talking to a teacher or academic advisor for personalized guidance. Remember, your well-being is important.",
+                "You're not alone in facing academic pressure. Reach out to classmates or friends to share experiences and study tips. Our platform also offers insights into effective stress management techniques tailored for students.",
+                "Balancing academic responsibilities can be challenging, but you can navigate it. Explore our website for articles on time management, study strategies, and coping mechanisms for dealing with academic pressure.",
+                "Coping with overwhelming academic workload is a shared experience. Check out our platform for practical tips, study hacks, and advice on maintaining a healthy mental state while meeting academic expectations.",
+                "It's important to seek support when dealing with academic pressure. Connect with a teacher, mentor, or a mental health professional for guidance. Our website also offers resources on stress reduction techniques.",
+                "Reaching out for help with academic pressure is a positive step. Consider creating a study schedule, breaking tasks into smaller goals, and exploring our website for insights into effective academic stress management.",
+                "Dealing with academic pressure is a journey, and we're here to assist you. Connect with fellow students, explore study techniques, and remember to take breaks to recharge your mind and body.",
+                "Struggling with the stress of studies is a common experience. Our platform provides resources on effective study habits, time management, and mental health tips to help you navigate through academic pressure.",
+                "You're not alone in facing academic pressure. Take a moment to assess your priorities, set realistic goals, and consider seeking guidance from teachers or academic advisors. Your well-being matters.",
+                "Facing challenges with academic pressure is part of the learning process. Connect with classmates, explore study groups, and consider talking to a counselor for personalized advice on managing academic stress.",
+                "Navigating academic pressure requires a holistic approach. Explore our website for resources on mindfulness, time management, and study techniques to help you balance the demands of your studies."
+            ]
+        },
+        {
+            "tag": "Support Systems",
+            "patterns": [
+                "I need support from my family.",
+                "How do I involve my loved ones in recovery?",
+                "Supportive friends are crucial.",
+                "What role can my family play in my recovery?",
+                "How do I communicate my needs to my family for support?",
+                "I want to involve my friends in my recovery. Any advice?",
+                "Can you help me build a support system with my family?",
+                "How do I seek support from my close ones during recovery?",
+                "I need guidance on involving my loved ones in my healing process.",
+                "What can I do to encourage my family to support me in recovery?",
+                "I'm struggling to involve my family in my recovery journey. Help?",
+                "Are there specific ways to include friends in my path to recovery?",
+                "How can I create a supportive environment with my family?",
+                "What steps can I take to engage my friends in supporting my recovery?",
+                "I feel isolated in my recovery. How can I involve my family?",
+                "How do I address resistance from family members regarding my recovery?",
+                "What strategies can I use to involve my loved ones effectively?",
+                "I'm seeking ways to strengthen my support network with family and friends.",
+                "How can I maintain healthy boundaries while involving my family in recovery?",
+                "I want to build a supportive community. How do I start?"
+            ],
+            "responses": [
+                "Involving your family can be beneficial. Discuss how to approach it and address any concerns or questions they may have about your recovery journey with your family",
+                "Supportive relationships are key to successful recovery. We'll explore effective ways to engage your loved ones and build a strong support network around you.",
+                "Building a support network is crucial for your recovery. We'll work together to develop strategies for involving your family and friends in a way that enhances your healing process.",
+                "Your family can play a significant role in your recovery. Explore ways to communicate your needs to them and create a supportive environment that fosters understanding and encouragement.",
+                "Communicating your needs to your family is an essential step. We'll discuss effective ways to express your feelings and expectations, fostering open and supportive communication.",
+                "Involving your friends in your recovery is important. We'll explore strategies for sharing your journey with them and seeking their support in a way that aligns with your goals.",
+                "Building a support system with your family is achievable. Let's work on creating a plan that involves them in a supportive and understanding manner throughout your recovery journey.",
+                "Seeking support from your close ones is a positive step. We'll explore ways to engage them effectively, ensuring they play a constructive role in your healing process.",
+                "Guidance on involving your loved ones in your healing process is available. Let's discuss practical steps to communicate your needs and build a strong support system with your family.",
+                "Encouraging your family to support you in recovery is important. We'll explore effective communication strategies and ways to involve them in a manner that fosters understanding and collaboration.",
+                "Struggling to involve your family in your recovery journey is common. Let's address the challenges and work on practical solutions to strengthen their support for your well-being.",
+                "Including friends in your path to recovery is valuable. We'll explore specific ways to engage them in your journey, fostering a supportive and understanding environment.",
+                "Creating a supportive environment with your family is achievable. We'll work on strategies to enhance communication, set boundaries, and build a positive foundation for your recovery.",
+                "Engaging your friends in supporting your recovery is important. We'll discuss ways to communicate your needs and involve them in a manner that aligns with your healing process.",
+                "Feeling isolated in your recovery is challenging. We'll explore effective ways to involve your family, creating a supportive network that understands and encourages your journey.",
+                "Addressing resistance from family members is common. Work on communication strategies and methods to address concerns, fostering a more supportive environment for your recovery.",
+                "Effective involvement of loved ones requires careful consideration. We'll explore practical strategies to engage them in a manner that promotes understanding and contributes positively to your recovery.",
+                "Strengthening your support network with family and friends is important. We'll discuss practical steps to enhance those connections and create a supportive environment for your recovery.",
+                "Maintaining healthy boundaries while involving your family in recovery is crucial. We'll explore strategies to communicate expectations and foster a supportive environment without compromising your well-being.",
+                "Building a supportive community is a great goal. Discuss how to initiate and nurture connections with like-minded individuals who can contribute positively to your recovery journey with friends and family"
+            ]
+        },
+        {
+            "tag": "Dual Diagnosis",
+            "patterns": [
+                "I have a mental health issue alongside addiction.",
+                "How do I manage both conditions?",
+                "Dual diagnosis is overwhelming."
+            ],
+            "responses": [
+                "Managing dual diagnosis is complex but possible. Let's create a comprehensive plan.",
+                "Addressing both issues is important. We'll develop strategies to support you.",
+                "Dual diagnosis can be challenging, but we'll navigate it together."
+            ]
+        },
+        {
+            "tag": "Legal Issues",
+            "patterns": [
+                "Legal problems due to drug abuse worry me.",
+                "How do I handle legal consequences?",
+                "I'm facing legal repercussions."
+            ],
+            "responses": [
+                "Legal issues can be daunting. Seek professional help to explore options and support yourself.",
+                "Addressing legal matters is essential. We'll work on strategies to manage it.",
+                "Facing legal consequences can be overwhelming. We'll navigate this together."
+            ]
+        },
+        {
+            "tag": "Overcoming Shame",
+            "patterns": [
+                "I feel ashamed of my addiction.",
+                "How do I overcome shame and guilt?",
+                "Shame hinders my recovery."
+            ],
+            "responses": [
+                "Feeling ashamed of your addiction is a common experience, but it doesn't define you.",
+                "Overcoming shame and guilt is a process, and you're not alone in this journey. We'll focus on building self-worth and understanding that recovery is about progress, not perfection.",
+                "Shame can hinder recovery, but it's possible to shift from shame to self-acceptance. We'll explore strategies and perspectives that promote a healthier relationship with yourself during this transformative journey.",
+                "It's normal to feel shame about your addiction. Together, we'll work on understanding and addressing these feelings, fostering self-compassion, and embracing the growth that comes with recovery.",
+                "Overcoming shame is a gradual process that requires patience and self-reflection. We'll explore strategies to build self-worth and redefine your narrative, focusing on the positive steps you're taking in your recovery.",
+                "Shame can be a significant obstacle, but it doesn't have to control your journey. Work on shifting your perspective, building self-compassion, and recognizing the strength it takes to embark on the path of recovery.",
+                "Acknowledging and addressing feelings of shame is an essential step in the recovery process. We'll work together to understand the roots of shame, promote self-acceptance, and foster a positive mindset.",
+                "Overcoming shame is part of the healing process. We'll explore practical strategies to challenge negative thoughts, build self-worth, and embrace the positive changes you're making in your recovery.",
+                "Shame is a common challenge, but it's not insurmountable. Together, we'll focus on shifting your mindset, building self-compassion, and recognizing the resilience within you as you progress in your recovery.",
+                "Recognizing and addressing shame is a brave step towards healing. Work on strategies to replace shame with self-acceptance and celebrate the positive aspects of your journey in recovery."
+            ]
+        },
+        {
+            "tag": "Coping Strategies",
+            "patterns": [
+                "What coping strategies can help during recovery?",
+                "How do I cope with cravings?",
+                "I need strategies to manage stress."
+            ],
+            "responses": [
+                "Consider establishing a daily routine that includes healthy activities like exercise, studying, and socializing to create structure and purpose.",
+                "Developing a strong support network on campus can be key. Connect with friends who support your recovery journey, and consider joining college support groups or counseling services.",
+                "Explore stress-relieving activities such as mindfulness, yoga, or deep breathing exercises. These practices can help manage stress and provide a healthier outlet for tension.",
+                "Establish clear boundaries with peers who may influence drug use. Communicate your commitment to recovery, and surround yourself with friends who respect and support your goals.",
+                "Engage in regular physical activity to boost your mood and energy levels. Consider joining sports clubs or fitness classes on campus to integrate exercise into your routine.",
+                "Connect with your college's health and counseling services. They can provide resources, counseling, and support tailored to college students dealing with drug addiction.",
+                "Consider participating in campus activities that align with your interests. Involvement in clubs or hobbies can provide a positive outlet and help you build a sense of belonging.",
+                "Practice time management skills to reduce academic stress. Break down tasks into smaller, manageable steps, and seek help from professors or academic advisors when needed.",
+                "Attend campus events focused on well-being and mental health. These events often provide valuable information, resources, and opportunities to connect with others on a similar journey.",
+                "Explore online forums or support groups specifically for college students in recovery. Connecting with peers who understand the unique challenges of college life can be empowering.",
+                "Prioritize self-care by getting enough sleep, maintaining a balanced diet, and staying hydrated. Taking care of your physical health is integral to supporting your mental well-being.",
+                "Utilize campus counseling services for one-on-one support. Professional counselors can help you navigate the emotional aspects of recovery and provide coping strategies tailored to your situation.",
+                "Consider joining a sober living community on campus. Surrounding yourself with like-minded individuals can provide a supportive environment for maintaining your commitment to recovery.",
+                "Stay connected with family and friends outside of college who are aware of your recovery journey. Regular communication with a strong support system can be invaluable.",
+                "Educate yourself about the resources available on campus for students dealing with addiction. Knowing where to turn for support can make a significant difference in your recovery.",
+                "Practice mindfulness meditation to stay present and manage cravings. Mindfulness techniques can enhance self-awareness and help you navigate challenging moments.",
+                "Establish clear goals for your academic and personal life. Setting and achieving small milestones can build confidence and provide a sense of accomplishment in your recovery journey.",
+                "Consider seeking a mentor or advisor on campus who can offer guidance and support. Having a mentor can provide an additional layer of encouragement and accountability.",
+                "Utilize technology to access virtual support groups or therapy sessions. Online platforms can offer flexibility and convenience for college students managing addiction recovery.",
+                "Engage in creative outlets or hobbies that bring you joy. Expressing yourself through art, music, or writing can be a positive way to cope with stress and enhance your well-being.",
+                "Seek academic accommodations if needed. Many colleges have support services for students in recovery, including flexible scheduling or additional academic support.",
+                "Remember that reaching out for help is a sign of strength. If you're struggling, don't hesitate to connect with campus counseling services, support groups, or local recovery resources."
+            ]
+        },
+        {
+            "tag": "Substance Education",
+            "patterns": [
+                "Can you educate me about different substances?",
+                "I want to learn more about the effects of drugs.",
+                "How do drugs impact the body and mind?"
+            ],
+            "responses": [
+                "Understanding drug abuse is crucial for your well-being. Drug abuse involves the harmful or excessive use of substances, leading to negative consequences on physical, mental, and socio-economic health.",
+                "Let's explore the concept of drug abuse. It refers to the misuse of substances, negatively impacting mental health, physical well-being, and overall socio-economic stability.",
+                "Drug abuse encompasses the misuse of substances, leading to adverse effects on mental, physical, and socio-economic health. We'll delve into the specific consequences and ways to stay informed and safe.",
+                "To grasp the concept of drug abuse, it's essential to recognize it as the harmful use of substances. We'll discuss its adverse effects on mental health, physical well-being, and socio-economic factors.",
+                "Drug abuse involves the inappropriate use of substances, resulting in detrimental effects on mental health, physical health, and socio-economic aspects.",
+                "Understanding drug abuse is vital for college students. It refers to the misuse of substances, negatively impacting mental health, physical well-being, and socio-economic stability.",
+                "Let's delve into drug abuse and its consequences. It involves the harmful use of substances, adversely affecting mental, physical, and socio-economic health.",
+                "To comprehend drug abuse, we'll explore its definition as the misuse of substances leading to negative consequences on mental, physical, and socio-economic health.",
+                "Drug abuse entails the harmful use of substances, causing negative effects on mental, physical, and socio-economic health.",
+                "Understanding drug abuse is crucial for college students. It involves the harmful use of substances, impacting mental health, physical well-being, and socio-economic stability. ",
+                "Let's discuss drug abuse and its implications. It refers to the harmful use of substances, adversely affecting mental health, physical well-being, and socio-economic factors."
+            ]
+        },
+        {
+            "tag": "Mental Health Awareness",
+            "patterns": [
+                "Is mental health linked to addiction?",
+                "How does mental health impact addiction?",
+                "Can you help me understand mental health disorders?"
+            ],
+            "responses": [
+                "Mental health and addiction are interconnected. Understanding mental health's role in addiction is crucial. Mental health disorders can influence addiction."
+            ]
+        },
+        {
+            "tag": "Self-Care Practices",
+            "patterns": [
+                "What self-care practices can aid in recovery?",
+                "How do I prioritize self-care during recovery?",
+                "I struggle to take care of myself."
+            ],
+            "responses": [
+                "Self-care is crucial in recovery. Explore practices that resonate with you.",
+                "Prioritizing self-care is important. We'll work on making it a part of your routine.",
+                "Taking care of yourself is a priority. Develop a self-care plan such as exercising and art therapy."
+            ]
+        },
+        {
+            "tag": "Cognitive Restructuring",
+            "patterns": [
+                "What is cognitive restructuring?",
+                "Can cognitive restructuring help in recovery?",
+                "How do I restructure my thoughts?"
+            ],
+            "responses": [
+                "Cognitive restructuring involves changing thought patterns. We'll explore techniques to do this.",
+                "Using cognitive restructuring techniques can positively impact recovery.",
+                "Restructuring thoughts is possible. We'll work on strategies together."
+            ]
+        },
+        {
+            "tag": "Goal Setting",
+            "patterns": [
+                "How can goal setting help in recovery?",
+                "I struggle with setting achievable goals.",
+                "Can you assist me in setting recovery goals?"
+            ],
+            "responses": [
+                "Setting goals is important in recovery. Create realistic and achievable ones.",
+                "Setting achievable goals is crucial. We'll work on setting up a step-by-step plan.",
+                "Goal setting can provide direction in recovery. Identify and set your recovery goals."
+            ]
+        },
+        {
+            "tag": "Stigma Reduction",
+            "patterns": [
+                "How can I reduce stigma around addiction?",
+                "Stigma affects my recovery. What should I do?",
+                "Can you help me cope with societal stigma?"
+            ],
+            "responses": [
+                "Reducing stigma involves education and awareness.",
+                "Stigma can be challenging but acknowledging your worth is key.",
+                "Addressing societal stigma is crucial."
+            ]
+        },
+        {
+            "tag": "Community Resources",
+            "patterns": [
+                "What resources does the community offer for recovery?",
+                "How can I connect with community support?",
+                "I feel isolated. Are there community programs?"
+            ],
+            "responses": [
+                "Communities offer various support programs.",
+                "Connecting with community resources is beneficial.",
+                "Community programs can provide valuable support."
+            ]
+        },
+        {
+            "tag": "Harm Reduction",
+            "patterns": [
+                "Can harm reduction strategies aid in recovery?",
+                "How do I practice harm reduction?",
+                "I want to reduce harm caused by addiction."
+            ],
+            "responses": [
+                "Harm reduction strategies focus on minimizing risks.",
+                "Practicing harm reduction involves practical strategies."
+            ]
+        },
+        {
+            "tag": "Coping with Stress",
+            "patterns": [
+                "I struggle with managing stress during recovery.",
+                "How can I cope with stress without turning to substances?",
+                "Stress impacts my recovery negatively."
+            ],
+            "responses": [
+                "Coping with stress is crucial. Explore stress-relief techniques that don't involve substances.",
+                "Managing stress without substances is possible. Work on stress management strategies.",
+                "Stress management is a key aspect of recovery. Develop coping mechanisms."
+            ]
+        },
+        {
+            "tag": "Personal Boundaries",
+            "patterns": [
+                "I find it hard to set boundaries in relationships.",
+                "How can I establish and maintain personal boundaries?",
+                "Boundaries affect my recovery."
+            ],
+            "responses": [
+                "Setting boundaries is essential for self-care. Work on establishing healthy boundaries.",
+                "Maintaining personal boundaries is important. Explore ways to communicate and enforce them.",
+                "Boundaries are crucial in relationships. Develop strategies to set and maintain them."
+            ]
+        },
+        {
+            "tag": "Resilience Building",
+            "patterns": [
+                "How can I build resilience during my recovery?",
+                "I feel fragile in my recovery journey. How do I build resilience?",
+                "Resilience is important for me."
+            ],
+            "responses": [
+                "Building resilience is a gradual process. Work on strengthening your coping skills.",
+                "Resilience is cultivated through experience. Explore resilience-building techniques.",
+                "Fostering resilience is possible. Focus on building strength and adaptability."
+            ]
+        },
+        {
+            "tag": "Nutrition and Wellness",
+            "patterns": [
+                "How does nutrition impact recovery?",
+                "Can good nutrition aid in addiction recovery?",
+                "I want to focus on my wellness during recovery."
+            ],
+            "responses": [
+                "Nutrition plays a role in overall health and recovery. Discuss a balanced diet plan with a trained nutritionist or dietician.",
+                "Good nutrition supports recovery. We'll work on creating a healthy eating routine.",
+                "Prioritizing wellness includes nutrition. Develop a wellness plan."
+            ]
+        },
+        {
+            "tag": "Coping with Trauma",
+            "patterns": [
+                "I've experienced trauma and it affects my recovery.",
+                "How can I cope with trauma without turning to substances?",
+                "Trauma impacts my mental health and recovery."
+            ],
+            "responses": [
+                "Coping with trauma is a significant part of recovery. Explore trauma-informed techniques and seek help from a professional therapist.",
+                "Addressing trauma is essential for recovery. Develop coping mechanisms tailored to your preferences and needs."
+            ]
+        },
+        {
+            "tag": "Peer Support",
+            "patterns": [
+                "How does peer support help in recovery?",
+                "I want to engage in peer support groups.",
+                "Peer support is important for me."
+            ],
+            "responses": [
+                "Peer support provides understanding and encouragement. Let's explore peer support group options.",
+                "Participating in peer support groups is beneficial. We'll find groups that suit your needs.",
+                "Connecting with peers in recovery can be empowering. Let's identify suitable peer support programs."
+            ]
+        },
+        {
+            "tag": "drug use Patterns",
+            "patterns": [
+                "How can I identify my drug use patterns?",
+                "Understanding drug use patterns is important for me.",
+                "Can you help me recognize my drug use triggers?"
+            ],
+            "responses": [
+                "Identifying your drug use patterns is a crucial step in self-awareness. Keep a journal to track when, where, and why you use substances. Recognizing patterns can help you understand the triggers and develop coping strategies.",
+                "Understanding your drug use patterns is essential for making positive changes. Reflect on your behaviors, consider the situations that lead to drug use, and seek professional guidance or support groups to gain deeper insights.",
+                "Recognizing drug use triggers is an important aspect of self-discovery. Take note of situations, emotions, or people associated with your drug use. This awareness can help you develop strategies to manage these triggers effectively.",
+                "To identify your drug use patterns, reflect on your habits and routines. Consider the times, locations, and emotions surrounding drug use. This self-reflection can provide valuable insights into your triggers and motivations.",
+                "Keep a detailed record of your drug use to identify patterns. Note the times, places, and emotional states associated with use. This information can serve as a foundation for creating a personalized plan to address your drug use.",
+                "Understanding drug use patterns involves introspection. Reflect on the circumstances surrounding your drug use, such as social settings, emotional states, and specific triggers. This awareness is key to making positive changes.",
+                "Identifying drug use patterns is a proactive step toward change. Keep a diary to track your drug use, noting any consistent themes or triggers. This self-awareness can empower you to make informed decisions about your habits.",
+                "To recognize your drug use patterns, reflect on your behaviors and situations surrounding use. Consider seeking guidance from a counselor or therapist to gain a deeper understanding and develop effective coping strategies.",
+                "Self-reflection is essential in identifying drug use patterns. Analyze your habits, emotions, and environments associated with drug use. This awareness can empower you to address underlying issues and make positive changes.",
+                "Recognizing your drug use patterns requires honest self-reflection. Track your drug use, paying attention to patterns in times of stress, social situations, or emotional states. Understanding these triggers is a key step toward change.",
+                "Consider seeking the support of a mental health professional to help identify and understand your drug use patterns. Their expertise can provide valuable insights and guidance as you work towards positive changes.",
+                "Developing self-awareness around drug use is a continuous process. Keep a journal, reflect on your experiences, and consider discussing your observations with a counselor or support group. This collaborative approach can enhance your understanding.",
+                "Identifying drug use patterns is a personal journey. Take note of the circumstances and emotions surrounding your drug use. This self-awareness is foundational for making informed decisions and implementing positive changes.",
+                "Understanding your drug use patterns involves honest self-examination. Keep a record of your drug use, noting patterns and triggers. Utilize this information to create a plan for positive change and seek support as needed.",
+                "Reflect on your drug use habits and situations that trigger use. Identifying patterns is a step towards building self-awareness. Consider involving a therapist or counselor for additional support in understanding and addressing these patterns.",
+                "To identify drug use patterns, examine your habits and emotions associated with use. Keeping a record can highlight consistent patterns and triggers. This information is valuable for creating a personalized plan for positive change.",
+                "Understanding your drug use patterns is a transformative process. Keep track of your drug use and the situations that surround it. Seek support from professionals or support groups to gain insights and navigate positive changes.",
+                "Reflect on the context of your drug use, noting patterns and triggers. Seeking the guidance of a counselor or therapist can provide additional perspectives and support as you work towards understanding and addressing these patterns.",
+                "Identifying drug use patterns is an ongoing process. Keep a journal to track your drug use and related emotions. This self-awareness can empower you to make informed choices and work towards positive changes in your life.",
+                "Understanding drug use patterns is a journey of self-discovery. Keep a record of your drug use, paying attention to consistent patterns. Engage with a counselor or support group to gain insights and support on your path to positive change."
+            ]
+        },
+        {
+            "tag": "Anger Management",
+            "patterns": [
+                "I struggle with managing anger during recovery.",
+                "How can I cope with anger without substances?",
+                "Anger negatively affects my recovery."
+            ],
+            "responses": [
+                "Coping with anger is crucial for recovery. Explore anger management techniques.",
+                "Managing anger without substances is possible. We'll work on coping strategies.",
+                "Addressing anger issues is important. Develop techniques to manage it."
+            ]
+        },
+        {
+            "tag": "Meditation Practices",
+            "patterns": [
+                "How can meditation aid in addiction recovery?",
+                "I want to start practicing meditation.",
+                "Meditation seems difficult for me."
+            ],
+            "responses": [
+                "Meditation has benefits for mental well-being.  Explore meditation practices suitable for you.",
+                "Starting meditation can be simple. We'll begin with easy techniques.",
+                "Beginning a meditation practice takes time. Start with guided sessions."
+            ]
+        },
+        {
+            "tag": "Art and Expressive Therapy",
+            "patterns": [
+                "How can art therapy assist in recovery?",
+                "I want to explore expressive therapies.",
+                "Expressing myself through art seems challenging."
+            ],
+            "responses": [
+                "Art therapy can be a powerful tool in recovery.",
+                "Exploring expressive therapies is beneficial. ",
+                "Expressive therapies can be a non-verbal way to process emotions. Start with simple exercises."
+            ]
+        },
+        {
+            "tag": "Fitness and Exercise",
+            "patterns": [
+                "How does fitness contribute to recovery?",
+                "I want to incorporate exercise into my recovery routine.",
+                "Exercise feels overwhelming for me."
+            ],
+            "responses": [
+                "Fitness and exercise have positive effects on mental health. Incorporating exercise can be gradual.Starting with small steps is key.",
+                "Fitness and exercise have positive effects on mental health. Incorporating exercise can be gradual.Starting with small steps is key."
+            ]
+        },
+        {
+            "tag": "Coping with Cravings",
+            "patterns": [
+                "How can I cope with cravings effectively?",
+                "Cravings are challenging. What should I do?",
+                "I need strategies to manage intense cravings.",
+                "I am having trouble managing cravings"
+            ],
+            "responses": [
+                "Coping with cravings is a common challenge. One effective strategy is to have a personalized craving response plan. Identify alternative activities, reach out to your support network, or engage in a distracting hobby when cravings arise.",
+                "Dealing with cravings can be challenging, but it's manageable. Establishing a routine, staying mindful of triggers, and incorporating healthy habits like exercise can help prevent cravings and provide a positive focus.",
+                "Managing intense cravings requires a personalized approach. Consider practicing mindfulness techniques, such as deep breathing or meditation, to center yourself in the present moment and navigate through cravings.",
+                "To cope with cravings effectively, it's important to have a support system in place. Reach out to friends, family, or a sponsor when cravings arise. Talking about your feelings can provide valuable support and distraction.",
+                "Cravings can be tough, but having a well-defined plan can make a difference. Create a list of activities you enjoy or tasks to accomplish when cravings strike. Having a proactive response strategy can help divert your focus.",
+                "When facing challenging cravings, consider engaging in physical activities. Exercise not only provides a healthy distraction but also releases endorphins, which can improve your mood and help manage cravings.",
+                "Developing healthy habits is key to preventing and coping with cravings. Ensure you maintain a balanced diet, stay hydrated, and get enough sleep. Physical well-being contributes significantly to your mental resilience.",
+                "Building a toolkit for coping with cravings is essential. Include activities like journaling, listening to music, or practicing relaxation techniques. Having a variety of options allows you to choose what works best for you in the moment.",
+                "To manage cravings effectively, stay connected with your support network. Regularly attend support group meetings, check in with your sponsor, and communicate openly about your experiences. Sharing can be a powerful coping mechanism.",
+                "Cravings are a natural part of recovery, but having strategies in place can help. Identify your triggers, create a plan for when cravings arise, and consider talking to a therapist for personalized coping techniques.",
+                "When cravings hit, consider redirecting your focus to positive activities. Whether it's pursuing a hobby, going for a walk, or practicing mindfulness, engaging in enjoyable and healthy alternatives can help alleviate cravings.",
+                "Preventing cravings involves recognizing triggers and implementing proactive measures. Stay vigilant about your surroundings, communicate openly with your support system, and have a plan in place to navigate challenging situations.",
+                "Create a daily routine that includes activities you enjoy and that promote your well-being. A structured and fulfilling schedule can contribute to overall stability and reduce the likelihood of intense cravings.",
+                "Coping with cravings requires a multifaceted approach. Stay educated about addiction, attend counseling sessions, and consider joining a relapse prevention program. Knowledge and support can empower you in your recovery journey.",
+                "Explore mindfulness-based strategies to cope with cravings. Practice grounding techniques, such as focusing on your breath or senses, to stay present and navigate through challenging moments without succumbing to cravings.",
+                "Developing a comprehensive coping plan is vital. Identify your personal triggers, practice self-awareness, and have a list of healthy alternatives ready. Consistent self-care and resilience-building activities can help prevent and manage cravings effectively."
+            ]
+        },
+        {
+            "tag": "Coping with Grief",
+            "patterns": [
+                "I'm experiencing grief during my recovery journey.",
+                "How can I cope with grief without relapsing?",
+                "Grief affects my mental health and recovery."
+            ],
+            "responses": [
+                "Coping with grief is part of the recovery process. Explore strategies to manage grief effectively such as seeking professional help.",
+                "Navigating grief without relapse is possible. Work on developing a coping mechanism that works out for you."
+            ]
+        },
+        {
+            "tag": "Self-Esteem Building",
+            "patterns": [
+                "I struggle with low self-esteem during recovery.",
+                "How can I build my self-esteem?",
+                "Self-esteem affects my recovery negatively."
+            ],
+            "responses": [
+                "Building self-esteem is crucial for recovery. Work on physical and mental exercises to boost your self-worth.",
+                "Improving self-esteem is a gradual process. Practice self-affirming techniques such as manifesting positivity.",
+                "Enhancing self-esteem supports recovery. Direct your focus on positive self-talk and affirmations."
+            ]
+        },
+        {
+            "tag": "Addiction Triggers",
+            "patterns": [
+                "How can I identify and manage my addiction triggers?",
+                "I want to learn about my addiction triggers.",
+                "Triggers affect my recovery."
+            ],
+            "responses": [
+                "Identifying and managing triggers is essential for recovery. Explore techniques to recognize and cope with triggers.",
+                "Understanding your triggers empowers recovery. Discuss and analyze potential triggers with trusted peers or mentors.",
+                "Addressing triggers is important. Develop strategies to manage their impact."
+            ]
+        },
+        {
+            "tag": "Holistic Healing",
+            "patterns": [
+                "What does holistic healing involve in addiction recovery?",
+                "I seek a holistic approach to my recovery.",
+                "Holistic healing seems beneficial for me."
+            ],
+            "responses": [
+                "Holistic healing focuses on overall well-being. Explore holistic techniques suited to your recovery.",
+                "Incorporating a holistic approach can be beneficial. Discuss various holistic practices.",
+                "Exploring holistic healing methods is valuable. Find approaches aligned with your needs."
+            ]
+        },
+        {
+            "tag": "Mindful Awareness",
+            "patterns": [
+                "How does mindfulness aid in addiction recovery?",
+                "I want to cultivate mindfulness in my recovery.",
+                "Mindfulness seems challenging to practice."
+            ],
+            "responses": [
+                "Mindfulness supports recovery by increasing awareness. Practice mindfulness techniques individually or with a support group together.",
+                "Incorporating mindfulness is beneficial. Start with guided mindfulness exercises from trained professionals.",
+                "Starting a mindfulness practice takes time. Explore simple mindfulness techniques."
+            ]
+        },
+        {
+            "tag": "Coping with Loneliness",
+            "patterns": [
+                "I feel lonely during my recovery.",
+                "How can I cope with loneliness without relapsing?",
+                "Loneliness affects my mental health and recovery."
+            ],
+            "responses": [
+                "Coping with loneliness is part of the recovery journey. Explore ways to connect and manage loneliness such as joining clubs/socities or volunteering for events.",
+                "Managing loneliness without relapse is possible. Work on coping strategies such as venting out your feelings or going out with friends."
+            ]
+        },
+        {
+            "tag": "Greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "Is anyone there?",
+                "Hi there",
+                "Hello",
+                "Hey there",
+                "Howdy",
+                "Hola",
+                "Bonjour",
+                "Konnichiwa",
+                "Guten tag",
+                "Ola"
+            ],
+            "responses": [
+                "Hello there. Tell me how are you feeling today?",
+                "Hi there. What brings you here today?",
+                "Hi there. How are you feeling today?",
+                "Great to see you. How do you feel currently?",
+                "Hello there. Glad to see you're back. What's going on in your world right now?"
+            ]
+        },
+        {
+            "tag": "Morning",
+            "patterns": [
+                "Good morning",
+                "Morning!",
+                "Hey, morning",
+                "Greetings, morning",
+                "Good day",
+                "Rise and shine!",
+                "Morning, how are you?",
+                "Hello, it's morning",
+                "Hello there, good morning",
+                "Hi, good morning",
+                "Good morning! How's it going?",
+                "Good morning. Any plans for today?",
+                "Hello! Wishing you a great morning",
+                "Morning vibes!",
+                "Hi there, rise and shine!",
+                "Bonjour!",
+                "Konnichiwa, good morning",
+                "Guten Morgen",
+                "Ola, morning!",
+                "Hola, buenos días"
+            ],
+            "responses": [
+                "Good morning. I hope you had a good night's sleep. How are you feeling today?",
+                "Morning! How did you wake up feeling today?",
+                "Hey, good morning! How's the morning treating you so far?",
+                "Rise and shine! How are you this morning?",
+                "Morning, how's everything with you today?",
+                "Good morning! Any specific plans for this wonderful day?",
+                "Hello there! How's your morning looking?"
+            ]
+        },
+        {
+            "tag": "Afternoon",
+            "patterns": [
+                "Good afternoon",
+                "Afternoon!",
+                "Hey there, good afternoon",
+                "Greetings, good afternoon",
+                "Hello, it's afternoon",
+                "Hi, good afternoon",
+                "Good afternoon! How's your day?",
+                "Afternoon vibes!",
+                "Hello! Wishing you a great afternoon",
+                "Hi there, good afternoon to you",
+                "Good day to you!",
+                "Hello, hoping you're having a nice afternoon",
+                "Afternoon, how's everything?",
+                "Bonjour, good afternoon",
+                "Konnichiwa, good afternoon",
+                "Guten Tag, guten nachmittag",
+                "Ola, good afternoon!",
+                "Hola, buenas tardes"
+            ],
+            "responses": [
+                "Good afternoon. How is your day going?",
+                "Afternoon! How's your day been so far?",
+                "Hey, good afternoon! How's the afternoon treating you?",
+                "Greetings! How's your afternoon unfolding?",
+                "Hello there! How's your afternoon looking?",
+                "Good afternoon! Anything exciting happening today?",
+                "Hi there! How's your afternoon been?"
+            ]
+        },
+        {
+            "tag": "Evening",
+            "patterns": [
+                "Good evening",
+                "Evening!",
+                "Hey there, good evening",
+                "Greetings, good evening",
+                "Hello, it's evening",
+                "Hi, good evening",
+                "Good evening! How's your day?",
+                "Evening vibes!",
+                "Hello! Wishing you a great evening",
+                "Hi there, good evening to you",
+                "Good evening! How are things?",
+                "Hello, hoping you're having a nice evening",
+                "Evening, how's everything?",
+                "Bonjour, good evening",
+                "Konnichiwa, good evening",
+                "Guten Abend",
+                "Ola, good evening!",
+                "Hola, buenas noches"
+            ],
+            "responses": [
+                "Good evening. How has your day been?",
+                "Evening! How has your day unfolded?",
+                "Hey, good evening! How's the evening treating you?",
+                "Greetings! How's your evening going?",
+                "Hello there! How's your evening looking?",
+                "Good evening! Anything exciting happening tonight?",
+                "Hi there! How's your evening been?"
+            ]
+        },
+        {
+            "tag": "Night",
+            "patterns": [
+                "Good night",
+                "Night!",
+                "Hey there, good night",
+                "Greetings, good night",
+                "Hello, it's night",
+                "Hi, good night",
+                "Good night! Rest well",
+                "Night vibes!",
+                "Hello! Wishing you a peaceful night",
+                "Hi there, good night to you",
+                "Good night! Sleep tight",
+                "Hello, hoping you have a peaceful night",
+                "Night, how's everything?",
+                "Bonjour, good night",
+                "Konnichiwa, good night",
+                "Gute Nacht",
+                "Ola, good night!",
+                "Hola, buenas noches"
+            ],
+            "responses": [
+                "Good night. Get some proper sleep",
+                "Good night. Sweet dreams.",
+                "Hey, good night! Rest well",
+                "Greetings! Hope you have a peaceful night",
+                "Hello there! Wishing you a restful night",
+                "Good night! Have a tranquil sleep"
+            ]
+        },
+        {
+            "tag": "Goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Au revoir",
+                "Sayonara",
+                "Ok bye",
+                "Bye then",
+                "Fare thee well",
+                "Catch you later",
+                "Adios",
+                "Later!",
+                "Take care",
+                "Until next time",
+                "Peace out",
+                "Cheerio",
+                "Toodle-oo",
+                "Adieu",
+                "Till we meet again",
+                "See you soon"
+            ],
+            "responses": [
+                "See you later.",
+                "Have a nice day.",
+                "Bye! Come back again.",
+                "I'll see you soon.",
+                "Take care!",
+                "Goodbye! Stay safe.",
+                "Farewell!",
+                "Until next time!",
+                "Ok, goodbye!",
+                "Bye then. Have a great day!",
+                "Adieu! Wishing you well.",
+                "Sayonara! Take care."
+            ]
+        },
+        {
+            "tag": "Thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thanks for the help",
+                "Thank you very much",
+                "Appreciate it",
+                "Grateful for your help",
+                "Thanks a lot",
+                "Thank you so much",
+                "Thank you for that"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure",
+                "You're most welcome!",
+                "Glad to assist!",
+                "Always here to help!",
+                "You're welcome!",
+                "It was my pleasure!",
+                "Delighted to assist!"
+            ]
+        },
+        {
+            "tag": "no-response",
+            "patterns": [
+                ""
+            ],
+            "responses": [
+                "Sorry, I didn't understand you.",
+                "Please go on.",
+                "Not sure I understand that.",
+                "Please don't hesitate to talk to me."
+            ]
+        },
+        {
+            "tag": "Neutral Response",
+            "patterns": [
+                "nothing much",
+                "not a lot",
+                "same old",
+                "nothing new",
+                "just chilling",
+                "just hanging out",
+                "not up to much",
+                "same old routine"
+            ],
+            "responses": [
+                "Oh I see. Do you want to talk about something?",
+                "Fair enough. Is there anything on your mind you'd like to discuss?",
+                "Got it. Anything specific you'd like to chat about?",
+                "Alright. Is there something you'd like to share or discuss?",
+                "Understandable. Anything you'd like to talk about today?"
+            ]
+        },
+        {
+            "tag": "About",
+            "patterns": [
+                "Who are you?",
+                "What are you?",
+                "Who you are?",
+                "Tell me more about yourself.",
+                "What is your name?",
+                "What should I call you?",
+                "What's your name?",
+                "Tell me about yourself"
+            ],
+            "responses": [
+                "I'm CareBot, your Personal Therapeutic Assistant. How are you feeling today?",
+                "I'm CareBot, a Therapeutic Assistant designed to assist you. Tell me about yourself.",
+                "I'm CareBot. I am a conversational agent designed to mimic a therapist. So how are you feeling today?",
+                "You can call me CareBot.",
+                "I'm CareBot!",
+                "Call me CareBot."
+            ]
+        },
+        {
+            "tag": "Skill",
+            "patterns": [
+                "What can you do?",
+                "What are your abilities?",
+                "What is your skillset?"
+            ],
+            "responses": [
+                "I can provide general advice regarding anxiety and depression, answer questions related to mental health, and engage in daily conversations. However, please do not consider me a substitute for an actual mental healthcare worker. If you don't feel satisfied with our interaction, please seek professional help."
+            ]
+        },
+        {
+            "tag": "creation",
+            "patterns": [
+                "Who created you?",
+                "How were you made?",
+                "How were you created?"
+            ],
+            "responses": [
+                "I was created by a team of students at NIT Hamirpur.",
+                "I was trained on a text dataset using Deep Learning & Natural Language Processing techniques"
+            ]
+        },
+        {
+            "tag": "Name",
+            "patterns": [
+                "My name is ",
+                "I am name.",
+                "I go by ",
+                "They call me ",
+                "People call me ",
+                "I'm known as ",
+                "The name's ",
+                "I go by the name of ",
+                "Call me ",
+                "My name's ",
+                "I'm called ",
+                "My friends call me ",
+                "They know me as ",
+                "I respond to ",
+                "You can call me "
+            ],
+            "responses": [
+                "Oh nice to meet you. Tell me how was your week?",
+                "Nice to meet you. So tell me, how do you feel today?",
+                "That's a great name. Tell me more about yourself.",
+                "Pleased to make your acquaintance. How has your day been?",
+                "Great to know your name. How are things going for you?",
+                "Interesting name! How's everything going in your world?",
+                "Nice to know your name. How have you been lately?",
+                "That's a cool name. How's your day been so far?",
+                "Thanks for sharing your name. How are you feeling today?",
+                "Good to know your name. Anything on your mind you'd like to share?",
+                "Lovely name! How are you doing today?",
+                "Thank you for sharing your name. How's everything going?",
+                "Interesting! How has your day been so far?",
+                "That's a unique name. How are you feeling today?",
+                "Nice to hear your name. How has your week been?"
+            ]
+        },
+        {
+            "tag": "Help",
+            "patterns": [
+                "Could you help me?",
+                "Give me a hand please",
+                "Can you help?",
+                "What can you do for me?",
+                "I need support",
+                "I need help",
+                "Support me please",
+                "Assist me please",
+                "I'm in need of assistance",
+                "Help me out",
+                "Can you lend a hand?",
+                "I require some aid",
+                "Please help me with this",
+                "I'm struggling, can you help?",
+                "Could you assist me?",
+                "Can you offer support?",
+                "I could use some help",
+                "Support would be appreciated",
+                "Can you guide me?",
+                "I'm looking for some assistance"
+            ],
+            "responses": [
+                "Sure. Tell me how can I assist you?",
+                "Tell me your problem so that I can assist you.",
+                "Yes, sure. How can I help you?",
+                "Of course, I'm here to assist you. What do you need help with?",
+                "Absolutely, I'm ready to support you. What's your concern?",
+                "I'm here to help. What can I do for you?",
+                "Sure thing. Let me know what support you need.",
+                "Certainly. What kind of assistance do you require?",
+                "I'm here to lend a hand. How can I assist you?",
+                "Absolutely, I'll do my best to help. What's the issue?",
+                "Yes, I can help. What's the matter?",
+                "Of course, I'm ready to assist. What can I do?",
+                "Absolutely. Let me know what support you're seeking.",
+                "Sure, I'm here to help. What's the problem?",
+                "Yes, I'm available to help. What do you need assistance with?",
+                "Absolutely, I'm here to offer support. What's going on?",
+                "Of course, I'm here to assist. What can I do for you?",
+                "Yes, I can guide you. What do you need assistance with?",
+                "Certainly, I'm here to help. How can I assist you today?",
+                "Absolutely, I'm available to offer support. What's your concern?"
+            ]
+        },
+        {
+            "tag": "Sad",
+            "patterns": [
+                "I feel down",
+                "I feel sad",
+                "I am sad",
+                "I feel empty",
+                "I don't have anyone",
+                "I'm feeling alone",
+                "I'm feeling down",
+                "I'm feeling really sad",
+                "I'm feeling empty inside",
+                "I'm feeling isolated",
+                "I'm feeling low"
+            ],
+            "responses": [
+                "I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me, why do you think you're feeling this way?",
+                "I'm here for you. Could you tell me why you're feeling this way?",
+                "Why do you think you feel this way?",
+                "How long have you been feeling this way?",
+                "I'm here to listen. What's been going on in your life lately?",
+                "It's okay to feel that way. Would you like to share more about what's troubling you?",
+                "You're not alone in feeling this. Can you talk about what might be causing this sadness?",
+                "I'm sorry you're feeling this way. Is there something specific that triggered these feelings?",
+                "It's okay to feel down sometimes. Do you want to talk about what's been bothering you?"
+            ]
+        },
+        {
+            "tag": "Stressed",
+            "patterns": [
+                "I am so stressed out",
+                "I am so stressed",
+                "I feel stuck",
+                "I still feel stressed",
+                "I am so burned out",
+                "Feeling stressed",
+                "Feeling overwhelmed",
+                "I'm feeling overwhelmed",
+                "I'm feeling burnt out",
+                "I'm feeling trapped"
+            ],
+            "responses": [
+                "What do you think is causing this?",
+                "Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated.",
+                "Give yourself a break. Go easy on yourself.",
+                "I'm sorry to hear that. What is the reason behind this?",
+                "Feeling overwhelmed is tough. Can you pinpoint what's adding to this stress?",
+                "It's okay to feel this way. What's been going on that's causing you to feel stressed?",
+                "Burning out can happen. Do you want to talk about what might be contributing to this?",
+                "Feeling stuck is challenging. Is there something specific causing this feeling?",
+                "Remember to take breaks when needed. Can you identify what's causing this stress?",
+                "I'm here to listen. What's been causing this ongoing stress for you?"
+            ]
+        },
+        {
+            "tag": "Worthless",
+            "patterns": [
+                "I feel so worthless.",
+                "No one likes me.",
+                "I can't do anything.",
+                "I am so useless",
+                "Nothing makes sense anymore",
+                "I feel useless",
+                "I feel like I'm worthless",
+                "I feel like I can't do anything right",
+                "I feel like nobody cares about me",
+                "I feel like I'm not good enough"
+            ],
+            "responses": [
+                "It's only natural to feel this way. Tell me more. What else is on your mind?",
+                "Let's discuss further why you're feeling this way.",
+                "First, I want to let you know that you are not alone in your feelings. There is always someone there to help. You can change your feelings and your way of thinking by being open to trying to change.",
+                "Remember, you're not alone in feeling this. There's always someone willing to listen and support you."
+            ]
+        },
+        {
+            "tag": "Depressed",
+            "patterns": [
+                "I can't take it anymore",
+                "I am so depressed",
+                "I think I'm depressed.",
+                "I have depression",
+                "Feeling really down",
+                "Feeling extremely low",
+                "Struggling with depression",
+                "I'm feeling hopeless",
+                "I'm feeling empty inside",
+                "Everything feels overwhelming"
+            ],
+            "responses": [
+                "It helps to talk about what's happening. You're going to be okay.",
+                "Talk to me. Tell me more. It helps if you open up yourself to someone else.",
+                "Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal."
+            ]
+        },
+        {
+            "tag": "Happy",
+            "patterns": [
+                "I feel great today.",
+                "I am happy.",
+                "I feel happy.",
+                "I'm good.",
+                "Cheerful",
+                "I'm fine",
+                "I feel okay",
+                "Feeling good",
+                "Feeling positive",
+                "Feeling upbeat",
+                "In a good mood"
+            ],
+            "responses": [
+                "That's great to hear. I'm glad you're feeling this way.",
+                "Oh, I see. That's great.",
+                "Did something happen that made you feel this way?",
+                "That's wonderful! What made your day so good?",
+                "Fantastic! Anything special behind this cheerful mood?",
+                "Glad to hear that! Is there something specific that brought on this happiness?",
+                "Feeling good is fantastic! Anything you'd like to share?"
+            ]
+        },
+        {
+            "tag": "casual",
+            "patterns": [
+                "Oh I see.",
+                "ok",
+                "okay",
+                "nice",
+                "Whatever",
+                "K",
+                "Fine",
+                "yeah",
+                "yes",
+                "no",
+                "not really"
+            ],
+            "responses": [
+                "Let's discuss further why you're feeling this way.",
+                "How were you feeling last week?",
+                "I'm listening. Please go on.",
+                "Tell me more",
+                "Can you elaborate on that?",
+                "Come Come elucidate your thoughts"
+            ]
+        },
+        {
+            "tag": "Anxious",
+            "patterns": [
+                "I feel so anxious.",
+                "I'm so anxious because of ",
+                "Feeling really anxious",
+                "I'm feeling so worried",
+                "I'm feeling overwhelmed by anxiety",
+                "Anxiety is overwhelming me"
+            ],
+            "responses": [
+                "Don't be hard on yourself. What's the reason behind this?",
+                "Can you tell me more about this feeling?",
+                "I understand that it can be scary. Tell me more about it.",
+                "Don't let the little worries bring you down. What's the worst that can happen?",
+                "It's okay to feel this way. Would you like to talk more about what's causing your anxiety?",
+                "Anxiety can be tough. Can you pinpoint what might be causing this feeling?",
+                "I'm here to listen. What's been going on that's making you feel anxious?",
+                "It's natural to feel anxious. Is there something specific triggering this feeling?"
+            ]
+        },
+        {
+            "tag": "not-talking",
+            "patterns": [
+                "I don't want to talk about it.",
+                "No just stay away.",
+                "I can't bring myself to open up.",
+                "Just shut up"
+            ],
+            "responses": [
+                "Talking about something really helps. If you're not ready to open up then that's ok. Just know that i'm here for you, whenever you need me.",
+                "I want to help you. I really do. But in order for me to help you, you're gonna have to talk to me.",
+                "I'm here to listen to you and help you vent. So please talk to me.",
+                "You can talk to me without fear of judgement."
+            ]
+        },
+        {
+            "tag": "Sleep",
+            "patterns": [
+                "I have insomnia",
+                "I am suffering from insomnia",
+                "I can't sleep.",
+                "I haven't slept for days.",
+                "I can't seem to go to sleep.",
+                "I haven't had proper sleep recently.",
+                "Struggling to sleep",
+                "Unable to fall asleep",
+                "Sleepless nights",
+                "Tossing and turning at night",
+                "Restless nights",
+                "Sleep troubles keeping me awake",
+                "Having trouble getting rest",
+                "Experiencing sleep difficulties",
+                "My sleep schedule is messed up",
+                "Feeling exhausted due to lack of sleep",
+                "Constantly feeling fatigued",
+                "Not getting enough sleep",
+                "Frequent wake-ups at night",
+                "Difficulty in getting a good night's rest"
+            ],
+            "responses": [
+                "What do you think might be causing this?",
+                "That sounds challenging. Have there been any changes or stressors recently?",
+                "I'm here to help. Have you tried any relaxation techniques or a bedtime routine?",
+                "I understand how frustrating that can be. Have you considered seeking professional advice?",
+                "Insomnia is tough. Have you noticed any patterns or triggers associated with it?",
+                "Sleep troubles can be distressing. Have you tried any specific strategies to improve your sleep?",
+                "It's important to address sleep concerns. Have you considered discussing this with a healthcare professional?",
+                "Improving sleep often involves lifestyle adjustments. Is there anything specific that might be affecting your sleep?",
+                "Lack of sleep can impact various aspects of life. Have you made any changes to your sleep environment or routine?",
+                "Sleep issues are common. Have you tried relaxation exercises or meditation to help?"
+            ]
+        },
+        {
+            "tag": "Sleep Hygiene",
+            "patterns": [
+                "My sleep patterns are disrupted due to addiction. What should I do?",
+                "How can I improve my sleep hygiene during recovery?",
+                "Sleep troubles affect my recovery."
+            ],
+            "responses": [
+                "Sleep hygiene is important for recovery. Incorporate techniques to improve your sleep patterns such as avoid using your mobile atleast 1 hour before your bedtime. Establishing and following a strict sleep schedule is also helpful.",
+                "Establishing good sleep habits is beneficial. Avoid using your mobile atleast 1 hour before your bedtime. Establishing and following a strict sleep schedule is also helpful"
+            ]
+        },
+        {
+            "tag": "Scared",
+            "patterns": [
+                "I'm scared",
+                "That sounds awful. What do I do?",
+                "No, I don't want to feel this way",
+                "I am scared for myself",
+                "Feeling scared",
+                "I'm feeling frightened",
+                "I'm feeling anxious and scared",
+                "I'm feeling fearful",
+                "I'm terrified",
+                "Feeling overwhelmed by fear",
+                "I'm feeling panicked"
+            ],
+            "responses": [
+                "It's only natural to feel this way. I'm here for you.",
+                "It'll all be okay. This feeling is only momentary.",
+                "I understand how you feel. Don't put yourself down because of it.",
+                "Let's take a deep breath together. What's causing this fear?",
+                "Feeling scared is tough. Would you like to talk about what might be causing this feeling?",
+                "You're not alone in feeling scared. Is there something specific triggering this fear?",
+                "Remember, it's okay to feel scared sometimes. Can you pinpoint what's making you feel this way?",
+                "I'm here to listen. What's been going on that's making you feel scared?",
+                "Fear can be overwhelming. Can you share more about what's making you feel this way?",
+                "Feeling frightened can be hard. Do you want to talk about what's making you feel scared?"
+            ]
+        },
+        {
+            "tag": "Death",
+            "patterns": [
+                "My mom died",
+                "My brother died",
+                "My dad passed away",
+                "My sister passed away",
+                "Someone in my family died",
+                "My friend passed away",
+                "Experiencing loss",
+                "Dealing with death",
+                "Grieving the loss of a loved one",
+                "Coping with bereavement"
+            ],
+            "responses": [
+                "I'm sorry to hear that. If you want to talk about it, I'm here.",
+                "I am really sorry to hear that. I'm here to help you with grief, anxiety, and anything else you may feel at this time.",
+                "My condolences. I'm here if you need to talk.",
+                "Losing a loved one is never easy. If you'd like, I'm here to listen.",
+                "I'm deeply sorry for your loss. If you need support, I'm here to offer a listening ear.",
+                "Dealing with loss can be overwhelming. I'm here to support you through this difficult time.",
+                "I can't imagine how difficult this must be for you. Feel free to talk about it if you need to."
+            ]
+        },
+        {
+            "tag": "Understand",
+            "patterns": [
+                "You don't understand me.",
+                "You're just some robot. How would you know?",
+                "You can't possibly know what I'm going through",
+                "You're useless",
+                "You can't help me",
+                "Nobody understands me.",
+                "Feeling misunderstood",
+                "No one gets me",
+                "I'm not being understood",
+                "I feel alone in this"
+            ],
+            "responses": [
+                "It sounds like I'm not being very helpful right now.",
+                "I'm sorry to hear that. I'm doing my best to help.",
+                "I'm trying my best to help you. Please talk to me.",
+                "I'm here to listen and learn. Please share more about what's troubling you.",
+                "I understand it might seem that way. Let's try to work through this together.",
+                "I'm an AI, but I'm here to listen and assist you the best I can.",
+                "I'm here to support you. Could you explain more about how you're feeling?",
+                "I'll do my best to assist you. Can you tell me more about what you're experiencing?"
+            ]
+        },
+        {
+            "tag": "done",
+            "patterns": [
+                "That's all.",
+                "I don't have anything more to say",
+                "Nothing else",
+                "That's all i have to say",
+                "no, that would be all"
+            ],
+            "responses": [
+                "I heard you & noted it all. See you later.",
+                "Oh okay we're done for today then. See you later",
+                "I hope you have a great day. See you soon",
+                "Okay we're done. Have a great day",
+                "Okay I see. Enjoy the rest of your day then"
+            ]
+        },
+        {
+            "tag": "Suicide",
+            "patterns": [
+                "I want to kill myself",
+                "I've thought about killing myself.",
+                "I want to die",
+                "I am going to kill myself",
+                "I am going to commit suicide",
+                "Feeling suicidal",
+                "Thinking about ending it",
+                "Considering suicide",
+                "I'm feeling hopeless",
+                "I can't go on anymore"
+            ],
+            "responses": [
+                "I'm very sorry to hear that you're feeling this way. Your life is valuable, and there's help available. Please seek immediate help by contacting the helpline at 9152987821"
+            ]
+        },
+        {
+            "tag": "hate-you",
+            "patterns": [
+                "I hate you",
+                "I don't like you",
+                "I don't trust you"
+            ],
+            "responses": [
+                "I'm sorry if i offended you in anyway. I'm only here to help",
+                "Forgive me if i did anything to offend you. I only want to help"
+            ]
+        },
+        {
+            "tag": "hate-me",
+            "patterns": [
+                "You hate me",
+                "I know you hate me",
+                "You don't like me"
+            ],
+            "responses": [
+                "Why do you think so?",
+                "I'm sorry if i have exhibited any sort of behaviour to make you think that."
+            ]
+        },
+        {
+            "tag": "default",
+            "patterns": [
+                "exams",
+                "friends",
+                "relationship",
+                "boyfriend",
+                "girlfriend",
+                "family",
+                "money",
+                "financial problems"
+            ],
+            "responses": [
+                "Oh I see. Tell me more",
+                "I see. What else?",
+                "Tell me more about it.",
+                "Oh okay. Why don't you tell me more about it?",
+                "I'm listening. Tell me more."
+            ]
+        },
+        {
+            "tag": "repeat",
+            "patterns": [
+                "You already told me that",
+                "You mentioned that already",
+                "Why are you repeating yourself?"
+            ],
+            "responses": [
+                "Oh sorry I didn't realise that. I'll try not to repeat myself again."
+            ]
+        },
+        {
+            "tag": "wrong",
+            "patterns": [
+                "What are you saying?",
+                "That doesn't make sense",
+                "Wrong response",
+                "Wrong answer"
+            ],
+            "responses": [
+                "I'm very sorry. Let's try that again"
+            ]
+        },
+        {
+            "tag": "something-else",
+            "patterns": [
+                "I want to talk about something else",
+                "Let's talk about something else.",
+                "Can we not talk about this?",
+                "I don't want to talk about this."
+            ],
+            "responses": [
+                "Okay sure. What do you want to talk about?",
+                "Alright no problem. Is there something you want to talk about?",
+                "Is there something else that you want to talk about?"
+            ]
+        },
+        {
+            "tag": "friends",
+            "patterns": [
+                "I don't have any friends"
+            ],
+            "responses": [
+                "I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?"
+            ]
+        },
+        {
+            "tag": "Ask",
+            "patterns": [
+                "Can I ask you something?",
+                "May I ask a question?",
+                "I have a question",
+                "Do you mind if I ask something?",
+                "Could you help me with something?"
+            ],
+            "responses": [
+                "Sure. I'll try my best to answer you.",
+                "Of course. Feel free to ask me anything. I'll do my best to answer you.",
+                "Absolutely, go ahead. I'm here to assist.",
+                "Please feel free to ask. I'll do my best to help.",
+                "I'm here to assist. Ask away, and I'll provide the best answer I can."
+            ]
+        },
+        {
+            "tag": "Learn-More",
+            "patterns": [
+                "Ok sure. I would like to learn more about it.",
+                "Yes, I would like to learn more about it.",
+                "I would like to learn more about it.",
+                "Tell me more about it.",
+                "Can you provide more information?",
+                "I'm interested in learning more.",
+                "Could you elaborate further?"
+            ],
+            "responses": [
+                "So first, I would suggest giving yourself a break. Thinking more and more about the problem doesn't always help in solving it. Sometimes, taking a step back can provide clarity rather than overwhelming yourself."
+            ]
+        },
+        {
+            "tag": "User-Agree",
+            "patterns": [
+                "Yeah you're right. I deserve a break.",
+                "Yeah you're absolutely right about that",
+                "You're spot on. I need a break",
+                "I agree, I should take a break",
+                "You're correct, I need to relax more",
+                "You're right, I should practice self-care"
+            ],
+            "responses": [
+                "Next, I would suggest you to practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind.",
+                "Additionally, consider taking short breaks throughout your day to recharge and reduce stress.",
+                "Moreover, incorporating mindfulness exercises into your routine might also help in managing stress levels."
+            ]
+        },
+        {
+            "tag": "Meditation",
+            "patterns": [
+                "I'm interested in meditation.",
+                "I want to try meditation.",
+                "Can meditation help me relax?",
+                "I've heard about meditation. How does it work?",
+                "Meditation seems intriguing. Tell me more about it.",
+                "I'm curious about starting a meditation practice.",
+                "Is meditation suitable for beginners?",
+                "I'm looking for ways to reduce stress. Is meditation effective?",
+                "How can meditation benefit mental health?",
+                "I think I need to calm my mind. Will meditation help?",
+                "I struggle with focus and concentration. Can meditation improve this?",
+                "Can meditation help with anxiety?",
+                "I find it hard to relax. Can meditation teach me?",
+                "My friend recommended meditation. What's the best way to start?",
+                "I want to incorporate meditation into my daily routine.",
+                "Can you suggest meditation techniques for beginners?",
+                "How long should I meditate for as a beginner?",
+                "What are the different types of meditation practices?"
+            ],
+            "responses": [
+                "Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing.",
+                "Start by finding a quiet and comfortable place to sit. Close your eyes and take deep, slow breaths. Allow yourself to relax and let go of any tension in your body. Focus on your breath, and if your mind wanders, gently bring it back to the present moment.",
+                "Try finding a guided meditation online or through an app. It can help you ease into the practice and explore different techniques.",
+                "Meditation involves various practices that aim to promote relaxation, build internal energy, and develop compassion, among other benefits. It's a diverse field, and you can explore different methods to find what suits you best.",
+                "Meditation can indeed help in relaxation. It's about finding a practice that resonates with you. Some find deep breathing exercises or visualization techniques relaxing.",
+                "Meditation works by focusing and training your mind to enhance awareness and achieve mental clarity. It involves various techniques, such as mindfulness, concentration, and guided meditation.",
+                "Meditation can be an effective tool for stress reduction. It encourages relaxation and helps in managing stress by bringing attention to the present moment.",
+                "Starting meditation as a beginner involves finding a quiet place, sitting comfortably, and focusing on your breath or a specific meditation technique. There's no right or wrong way; it's about finding what feels comfortable for you.",
+                "As a beginner, guided meditations or mindfulness exercises for shorter durations, like 5-10 minutes, can be a good starting point to gradually build your practice.",
+                "Meditation has shown benefits for mental health, including reducing symptoms of anxiety, improving focus, and enhancing emotional well-being.",
+                "Meditation can assist in calming the mind by teaching techniques that encourage relaxation, mindfulness, and letting go of intrusive thoughts.",
+                "Yes, meditation can improve focus and concentration over time. Techniques like mindfulness meditation specifically focus on enhancing attention.",
+                "Meditation techniques like mindfulness and deep breathing exercises can indeed help in managing anxiety by promoting relaxation and redirecting focus.",
+                "Meditation can teach relaxation by guiding individuals through techniques that promote a calm state of mind, helping in releasing tension and stress.",
+                "Starting with short, guided meditation sessions can be helpful for beginners. Apps or online resources often provide various beginner-friendly practices.",
+                "Incorporating meditation into your daily routine can start with short sessions in the morning or before bedtime. Consistency is key to establishing a practice.",
+                "For beginners, starting with simple techniques like mindful breathing or body scan meditation can be helpful. These practices focus on awareness and relaxation.",
+                "As a beginner, aim for short sessions, even 5-10 minutes daily, and gradually increase duration as you become more comfortable with the practice.",
+                "There are different meditation types like mindfulness, loving-kindness, transcendental, and breath awareness. Exploring each can help find what suits you best.",
+                "Meditation for beginners involves exploring different methods to find what resonates with you best. Start with short, guided practices and gradually experiment with other techniques.",
+                "As a beginner, start with shorter sessions, even 5-10 minutes daily, and gradually increase duration as you become more comfortable and experienced with meditation."
+            ]
+        },
+        {
+            "tag": "user-meditation",
+            "patterns": [
+                "i did what you said and i feel alot better. thank you very much.",
+                "I feel better now"
+            ],
+            "responses": [
+                "Your welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+            ]
+        },
+        {
+            "tag": "User-Advice",
+            "patterns": [
+                "I want some advice.",
+                "I need some advice.",
+                "I need advice on something",
+                "Can you give me advice?",
+                "Do you have any advice for me?",
+                "I'm seeking advice.",
+                "Could you offer me advice?",
+                "Advice, please?",
+                "I'm looking for guidance."
+            ],
+            "responses": [
+                "Sure. What can I do to help?",
+                "Okay, what do you need advice on?",
+                "Of course. I'm here to offer advice. What's on your mind?",
+                "Absolutely, I'm here to provide guidance. What's the matter?",
+                "Sure thing. Tell me what you need advice about.",
+                "Of course, I'm here to offer advice and support. What's your concern?",
+                "Certainly. What specific advice are you seeking?",
+                "Sure, I'll do my best to provide advice. What's the situation?"
+            ]
+        },
+        {
+            "tag": "learn-mental-health",
+            "patterns": [
+                "I want to learn about mental health.",
+                "I want to learn more about mental health.",
+                "I'm interested in learning about mental health."
+            ],
+            "responses": [
+                "Oh that's really great. I'd be willing to answer anything that I know about it."
+            ]
+        },
+        {
+            "tag": "mental-health-fact",
+            "patterns": [
+                "Tell me a fact about mental health",
+                "Tell me another fact about mental health"
+            ],
+            "responses": [
+                "According to a UNICEF report, One in seven Indians between 15-24 years of age feels depressed",
+                "1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime.",
+                "Depression is the leading cause of disability worldwide."
+            ]
+        },
+        {
+            "tag": "Notification System",
+            "patterns": [
+                "Tell me more about the notification system for reported cases.",
+                "How often are the concerned authorities notified about submitted reports?",
+                "What happens after I submit a report through the website?"
+            ],
+            "responses": [
+                "When a report is submitted, concerned authorities receive instant notification alerts on WhatsApp. This ensures swift action and timely response to reported cases.",
+                "Concerned authorities are notified promptly upon the submission of a report. This ensures a timely response to reported incidents and contributes to effective drug abuse prevention efforts.",
+                "After submitting a report, concerned authorities will review the information provided. If necessary, they will take appropriate actions, and your anonymity will be maintained as per your choice."
+            ]
+        },
+        {
+            "tag": "Report verification",
+            "patterns": [
+                "What steps are taken to verify the authenticity of submitted reports?"
+            ],
+            "responses": [
+                "To maintain the integrity of the reporting system, all submitted reports go through a verification process by concerned authorities to ensure the authenticity and accuracy of the information."
+            ]
+        },
+        {
+            "tag": "Website Form Functionality",
+            "patterns": [
+                "How does the drug abuse reporting form work?",
+                "Can I submit a report anonymously using the reporting form?",
+                "How can I track the status of a report I submitted?",
+                "Is there a way to get updates on the website's activities?",
+                "What security measures are in place to protect user information?",
+                "Are there any resources on the website for understanding drug abuse prevention?",
+                "Is there a way to provide feedback on the website's functionality?",
+                "Are there any user guides or tutorials available on the website?"
+            ],
+            "responses": [
+                "The drug abuse reporting form is designed to be user-friendly. You can provide details about an incident, and if you choose, you have the option to submit the report anonymously to protect your identity.",
+                "Yes, the reporting form allows users to submit reports anonymously, ensuring privacy and encouraging open communication about drug abuse incidents.",
+                "Currently, there is no direct tracking system for individual reports. However, you can contact our support team for updates or any concerns regarding a submitted report.",
+                "You can stay updated on the website's activities through our newsletter. Subscribe to receive regular updates on drug abuse prevention initiatives, resources, and community engagement.",
+                "We prioritize user privacy and employ robust security measures to protect all information submitted through the website. Your confidentiality and security are our top concerns.",
+                "Explore the 'Prevention Resources' section on the website for comprehensive information on drug abuse prevention strategies, educational materials, and community support initiatives.",
+                "We welcome your feedback! Please use the provided feedback form on the website to share your thoughts on its functionality, features, and any suggestions for improvement."
+            ]
+        },
+        {
+            "tag": "Chatbot",
+            "patterns": [
+                "Can the chatbot provide information on mental health issues?",
+                "How does the chatbot assist in discussions about drug abuse?",
+                "What topics can I discuss with the chatbot?",
+                "Is the chatbot able to offer personalized advice?",
+                "Tell me about the technology behind the website's chatbot.",
+                "How accurate is the information provided by the chatbot?",
+                "Can the chatbot connect me with a human counselor?",
+                "What languages does the chatbot support?",
+                "How can I report issues or give feedback about the chatbot?",
+                "Is the chatbot available 24/7 to assist users?"
+            ],
+            "responses": [
+                "Yes, the chatbot is equipped to provide information on both drug abuse and mental health. Feel free to ask any questions or seek guidance on these topics through the chatbot.",
+                "The chatbot is designed to assist in discussions about drug abuse by providing information, answering queries, and offering support. It aims to engage users in meaningful conversations on relevant topics.",
+                "You can discuss a variety of topics with the chatbot, including drug abuse prevention, mental health, and website-related queries. Feel free to initiate a conversation and explore the different aspects it can help you with.",
+                "While the chatbot can provide general information and support, it's not a substitute for professional advice. For personalized advice, it's recommended to consult with a human counselor or healthcare professional. Kindly refer to the Online Councelling Section on the website to seek preofessional help.",
+                "The chatbot is powered by advanced natural language processing technology, allowing it to understand and respond to user queries effectively. It's designed to provide accurate and helpful information 24/7.",
+                "The information provided by the chatbot is based on a diverse range of sources. While efforts are made to ensure accuracy, it's recommended to verify critical information from reliable sources or consult with professionals for specific advice.",
+                "Currently, the chatbot is not designed to connect users with human counselors. However, it can offer information, support, and resources related to drug abuse and mental health.",
+                "The chatbot primarily supports communication in English. However, efforts are ongoing to expand its language capabilities to serve a broader audience.",
+                "You can report issues or provide feedback about the chatbot through the website's feedback form. Your input is valuable in enhancing the chatbot's functionality and user experience.",
+                "Yes, the chatbot is available around the clock to provide assistance, answer questions, and engage in discussions about drug abuse, mental health, and the website's features."
+            ]
+        },
+        {
+            "tag": "Incident Reporting",
+            "patterns": [
+                "How can I anonymously report drug peddlers?",
+                "What is the process for reporting drug distributors?",
+                "I need to report a drug-related incident anonymously.",
+                "Where can I submit an anonymous report about drug users?",
+                "How does the anonymous incident reporting work?",
+                "I want to report drug-related activities without revealing my identity.",
+                "What steps should I follow to anonymously report drug peddlers?",
+                "Is there a way to report drug distributors without disclosing my identity?",
+                "I'm aware of drug-related incidents. How can I report them anonymously?",
+                "Can I report drug users without being identified?",
+                "Where can I submit an anonymous report about drug activities?",
+                "I need information on anonymously reporting drug-related incidents."
+            ],
+            "responses": [
+                "Thank you for taking a stand against drug-related issues. You can anonymously report incidents by visiting our website and using the dedicated reporting form. Your identity will remain confidential throughout the process.",
+                "We appreciate your commitment to keeping our community safe. To anonymously report drug-related incidents, visit our website and use the designated reporting form. Rest assured, your identity will be protected.",
+                "Anonymous incident reporting is a crucial step in maintaining a safe environment. Please visit our website to submit a report about drug-related activities without revealing your identity. Your confidentiality is our priority.",
+                "You can contribute to a safer community by anonymously reporting drug-related incidents on our website. Visit the reporting form and share the details without disclosing your identity. We value your commitment to the well-being of our community.",
+                "To report drug-related incidents anonymously, visit our website and utilize the anonymous reporting form. Your identity will be protected throughout the process, ensuring a safe space for reporting.",
+                "Your commitment to maintaining a drug-free environment is commendable. Please visit our website to anonymously report drug-related incidents using the provided form. Your identity will remain confidential.",
+                "Thank you for your dedication to community safety. Visit our website and utilize the anonymous reporting form to report drug peddlers anonymously. Your identity will be kept confidential throughout the process.",
+                "Maintaining anonymity while reporting drug distributors is important. Visit our website and use the anonymous reporting form to submit details about drug-related incidents. Your identity will be safeguarded.",
+                "We appreciate your vigilance in reporting drug-related incidents. To maintain anonymity, visit our website and use the dedicated reporting form. Your identity will be protected throughout the reporting process.",
+                "You can play a crucial role in community safety by anonymously reporting drug users. Visit our website and use the provided reporting form to share information without revealing your identity. Your confidentiality is our priority.",
+                "Anonymous reporting of drug-related activities is crucial for community well-being. Please visit our website and use the reporting form to submit details anonymously. Your identity will be kept confidential.",
+                "To anonymously report drug-related incidents, visit our website and use the dedicated reporting form. Your commitment to community safety is valued, and your identity will remain confidential."
+            ]
+        },
+        {
+            "tag": "Recovery Stories",
+            "patterns": [
+                "Is there a forum for sharing recovery stories?",
+                "Where can I anonymously share my recovery journey?",
+                "I want to share my recovery story anonymously.",
+                "Is there a space for users to post about their recovery experiences?",
+                "How can I contribute my recovery story anonymously?",
+                "Tell me about the forum for sharing recovery stories.",
+                "Where can I read anonymous recovery stories?",
+                "Is there a platform to share my journey of recovery?",
+                "I'm looking for a place to share my recovery experiences anonymously.",
+                "Tell me about the recovery story-sharing section on the website.",
+                "Is there an anonymous forum for discussing recovery journeys?"
+            ],
+            "responses": [
+                "Yes, we have a dedicated forum for sharing recovery stories. You can anonymously contribute your recovery journey, providing inspiration to others. Visit our website's recovery stories section to share or read stories.",
+                "Absolutely! You can anonymously share your recovery journey on our dedicated forum. Visit our website's recovery stories section to contribute and read stories from others who have overcome similar challenges.",
+                "We welcome your anonymous contribution to our recovery stories forum. Visit our website's recovery section to share your journey of recovery without revealing your identity. Your story can inspire others.",
+                "Certainly! We have a platform for users to post about their recovery experiences anonymously. Visit our website's recovery stories section to share or read inspiring stories of resilience and recovery.",
+                "You can contribute your recovery story anonymously on our platform. Visit the recovery stories section on our website to share your journey and read about the experiences of others who have overcome challenges.",
+                "Our recovery stories forum is a space where users can share their journeys anonymously. Visit our website to explore this section and read or contribute inspiring stories of recovery.",
+                "Yes, there is a dedicated forum for sharing recovery stories. Visit our website's recovery section to read or anonymously share your recovery journey. Your contribution can be a source of inspiration for others.",
+                "We have a platform for users to share their recovery experiences anonymously. Visit our website's recovery stories section to contribute your story and read about the journeys of others who have overcome adversity.",
+                "Absolutely! You can share your recovery experiences anonymously on our platform. Visit our website's recovery stories section to contribute and read stories of resilience and triumph.",
+                "We encourage you to share your recovery journey anonymously on our platform. Visit the recovery stories section on our website to contribute and read stories of hope and overcoming challenges.",
+                "Yes, there is an anonymous forum for discussing recovery journeys. Visit our website's recovery stories section to share your journey and read about the inspiring experiences of others who have overcome similar challenges."
+            ]
+        },
+        {
+            "tag": "Chatbot Seeking Help",
+            "patterns": [
+                "How can I access educational resources on drug abuse on the website?",
+                "Where can I find online counseling for substance abuse on the website?",
+                "Is there support for students seeking help with drug issues on the website?",
+                "Tell me about the educational resources on drug addiction available on the website.",
+                "How do I seek online counseling for substance abuse available on the website?",
+                "Is there a support system for students dealing with drug problems?"
+            ],
+            "responses": [
+                "Accessing educational resources on drug abuse is vital for awareness. Visit our website's educational resources section to find informative materials and articles about substance abuse.",
+                "You can find online counseling for substance abuse on our platform. Visit our website's counseling services section to explore available resources and connect with professionals who can offer support.",
+                "We provide support for students seeking help with drug-related issues. Visit our website's student support services section to access resources and connect with individuals who can provide assistance.",
+                "Explore our website's educational resources section to find valuable information on drug addiction. We offer articles, guides, and materials to enhance understanding and awareness.",
+                "Seeking online counseling for substance abuse is easy. Visit our website's counseling services section to connect with professionals who can provide guidance and support.",
+                "For student support services related to drug issues, visit our website's dedicated section. We offer resources and assistance to help students navigate challenges associated with substance abuse.",
+                "Find resources for understanding drug abuse on our website. Visit the educational resources section to access articles, guides, and materials that provide valuable insights.",
+                "Our platform offers online counseling services for drug addiction. Visit the counseling services section on our website to connect with professionals who can assist you in your journey to recovery.",
+                "Students can access educational materials on substance abuse on our platform. Visit the educational resources section on our website to find informative articles and guides.",
+                "Explore online counseling services for drug-related issues on our platform. Visit the counseling services section on our website to connect with professionals who can provide support and guidance.",
+                "We have a support system for students dealing with drug problems. Visit our website's student support services section to access resources and connect with individuals who can offer assistance."
+            ]
+        },
+        {
+            "tag": "Admin Registration Website",
+            "patterns": [
+                "How can I register as an admin on the website?",
+                "What is the process for becoming an admin on the website?",
+                "I want to register as an admin on the platform.",
+                "Is there a way to become an admin for the website?",
+                "Tell me about the admin registration process on the website.",
+                "How can I sign up as an admin on the website?",
+                "I'm interested in becoming an admin on the website. What are the steps?",
+                "Is there a registration form for admin positions on the website?",
+                "What qualifications are needed to register as an admin on the website?",
+                "Tell me about the requirements for admin registration on the website.",
+                "How do I apply for an admin role on the platform?"
+            ],
+            "responses": [
+                "To register as an admin, please visit our website's admin registration section and follow the provided instructions. We appreciate your interest in contributing to the platform.",
+                "The process for becoming an admin is straightforward. Visit our website's admin registration section, and you'll find detailed steps to guide you through the registration process.",
+                "If you want to register as an admin, visit our website's admin registration section. Follow the provided instructions to complete the registration process, and thank you for your interest.",
+                "Becoming an admin for the website is possible. Visit our website's admin registration section to find the necessary information and steps to complete the registration process.",
+                "The admin registration process is simple. Visit our website's admin registration section, and you'll find step-by-step instructions to guide you through the registration process.",
+                "To sign up as an admin, visit our website's admin registration section. The steps are clearly outlined, making it easy for you to complete the registration process.",
+                "If you're interested in becoming an admin, follow the steps in our website's admin registration section. The process is designed to be user-friendly, allowing you to sign up with ease.",
+                "Visit our website's admin registration section to find the registration form for admin positions. Complete the form following the provided instructions, and you'll be on your way to becoming an admin.",
+                "To register as an admin, please visit our website's admin registration section. Review the qualifications and follow the instructions to complete the registration process.",
+                "For admin registration requirements, visit our website's admin registration section. You'll find information on qualifications and steps to register as an admin.",
+                "Applying for an admin role is easy. Visit our website's admin registration section to find the necessary information and steps to complete the registration process."
+            ]
+        },
+        {
+            "tag": "Admin Dashboard Website",
+            "patterns": [
+                "What features are available on the admin dashboard?",
+                "Tell me about the admin dashboard functionalities.",
+                "What can I do on the admin dashboard?",
+                "Is there a notification system on the admin dashboard?",
+                "How can I view the status of incident reports on the admin dashboard?",
+                "Tell me about the admin dashboard for resolving reports.",
+                "What information is accessible through the admin dashboard?",
+                "Is there a way to receive notifications on the admin dashboard?",
+                "How does the admin dashboard work for resolving pending reports?",
+                "Tell me about the status tracking feature on the admin dashboard.",
+                "Is there a way to verify registered employees through the admin dashboard?"
+            ],
+            "responses": [
+                "The admin dashboard offers various features, including status tracking of incident reports, notification alerts, and employee verification. Explore the functionalities on our website's admin dashboard section.",
+                "Our admin dashboard provides multiple functionalities, such as incident report status tracking, notification alerts, and employee verification. Visit our website's admin dashboard section to explore these features.",
+                "On the admin dashboard, you can access features like incident report status tracking, notification alerts, and employee verification. Explore the functionalities on our website's admin dashboard section.",
+                "The admin dashboard offers functionalities such as incident report status tracking, notification alerts, and employee verification."
+            ]
+        },
+        {
+            "tag": "Depression Support for Friends",
+            "patterns": [
+                "My friend is going through a tough time. How can I support them with depression?",
+                "What are some do's and don'ts when helping a friend with depression?",
+                "I want to be there for my friend with depression. How can I encourage them to seek professional help?",
+                "How can I educate myself about depression to better support my friend?",
+                "What are signs that my friend might be struggling with depression?",
+                "Are there support groups or communities for friends of individuals with depression?"
+            ],
+            "responses": [
+                "Supporting a friend with depression involves being there for them, listening without judgment, and encouraging them to seek professional help. Our website provides resources on supporting friends with depression.",
+                "Do's and don'ts when helping a friend with depression include offering empathy, avoiding judgment, and encouraging professional help. Our website provides a guide on effective ways to support a friend dealing with depression.",
+                "Encouraging your friend to seek professional help is crucial. Be empathetic, express your concern, and provide information on available resources. Our website offers guidance on supporting a friend through their journey with depression.",
+                "Educating yourself about depression is an important step in supporting your friend. Our website provides resources, articles, and information on understanding and helping friends with depression.",
+                "Signs that your friend might be struggling with depression include changes in mood, withdrawal from activities, and noticeable shifts in behavior. Our website provides information on recognizing and responding to these signs.",
+                "Support groups and communities for friends of individuals with depression can be valuable. Our website features information on online forums and local support groups where friends can connect and share experiences."
+            ]
+        },
+        {
+            "tag": "Depression",
+            "patterns": [
+                "I'm feeling really down lately. Can you help with depression?",
+                "How can I cope with feelings of sadness and hopelessness?",
+                "Is there information on your website about dealing with depression?",
+                "I think I might be depressed. What should I do?",
+                "Can you provide resources for understanding and managing depression?",
+                "I need support for my friend who is struggling with depression.",
+                "What are some self-help strategies for dealing with depression?",
+                "How can I differentiate between regular sadness and clinical depression?",
+                "I feel overwhelmed by life. Is this a sign of depression?",
+                "Is there a helpline or chat service for immediate assistance with depression?",
+                "How do you support someone experiencing a depressive episode?",
+                "Can you recommend books or articles on overcoming depression?",
+                "Are there online communities for sharing experiences about living with depression?",
+                "I'm looking for professional help for my depression. Where should I start?",
+                "Is exercise effective in managing depression symptoms?",
+                "Can you provide tips for talking to a loved one about their depression?",
+                "I'm a parent concerned about my child's mood. How can I help them with depression?",
+                "How can I create a supportive environment for someone with depression?",
+                "What role does therapy play in treating depression?",
+                "Are there specific dietary changes that can help alleviate depression symptoms?"
+            ],
+            "responses": [
+                "I'm sorry to hear that you're feeling this way. It's important to talk to someone who can provide support. Reach out to friends, family, or consider speaking to a mental health professional.",
+                "Dealing with depression can be challenging, but you're not alone. Our website offers resources on understanding and managing depression, including self-help strategies and information about professional support.",
+                "If you suspect you may be experiencing depression, it's crucial to seek professional help. Visit our website for information on depression symptoms, treatment options, and resources to guide you on your journey.",
+                "Supporting a friend with depression is important. Encourage them to seek professional help and be there to listen without judgment. Our website provides resources on supporting someone with depression.",
+                "Our website has a wealth of resources on depression, including articles, self-help strategies, and information on different treatment options. Take some time to explore and find the support you need.",
+                "Supporting a friend with depression involves being understanding and encouraging them to seek professional help. Our website provides resources for both individuals struggling with depression and those supporting them.",
+                "Self-help strategies for dealing with depression include establishing a routine, exercising, and connecting with loved ones. However, it's essential to consult with a mental health professional for personalized advice.",
+                "Distinguishing between regular sadness and clinical depression can be challenging. If you're experiencing persistent feelings of sadness, it's advisable to consult with a mental health professional for an accurate assessment.",
+                "Feeling overwhelmed may be a sign of depression. Reach out to a mental health professional for a thorough evaluation and personalized guidance on managing your emotions and well-being.",
+                "If you need immediate assistance, consider contacting a helpline or chat service. It's important to talk to someone about your feelings and seek support from professionals who can help you navigate through depression.",
+                "Supporting someone with depression involves being empathetic, encouraging professional help, and offering a listening ear. Our website provides resources on how to support a loved one through their journey with depression.",
+                "Books and articles on overcoming depression can be valuable resources. Visit our website for recommendations and explore literature that aligns with your specific needs and preferences.",
+                "Online communities can provide a supportive space for sharing experiences and connecting with others who understand. Our website features information on online forums and communities for depression support.",
+                "If you're seeking professional help for your depression, start by consulting with your primary care physician or contacting a mental health professional directly. Our website may also have local resources to guide you.",
+                "Regular exercise has been shown to have positive effects on managing depression symptoms. Consult with a healthcare professional to incorporate exercise into your overall treatment plan.",
+                "Talking to a loved one about their depression requires empathy and open communication. Our website provides tips and resources on approaching these conversations with sensitivity and understanding.",
+                "Parents concerned about a child's mood should consider seeking guidance from a pediatrician or mental health professional. Our website offers resources on understanding and supporting children with depression.",
+                "Creating a supportive environment involves being understanding, patient, and encouraging professional help. Our website provides tips on fostering a positive atmosphere for individuals dealing with depression.",
+                "Therapy plays a crucial role in treating depression. Different therapeutic approaches, such as cognitive-behavioral therapy (CBT), can be effective in addressing depressive symptoms. Consult with a mental health professional for personalized recommendations.",
+                "Certain dietary changes, such as a balanced and nutritious diet, can complement depression management. Consult with a healthcare professional for guidance on dietary adjustments as part of a comprehensive treatment plan."
+            ]
+        },
+        {
+            "tag": "Anxiety",
+            "patterns": [
+                "I'm feeling overwhelmed with anxiety. Can you provide support?",
+                "How can I manage anxiety during stressful situations?",
+                "Is there information on your website about coping with anxiety?",
+                "What are some self-help strategies for dealing with anxiety?",
+                "Can you recommend resources for understanding and managing anxiety?",
+                "I need support for my friend who is struggling with anxiety.",
+                "What are the signs that my anxiety may be becoming a serious issue?",
+                "How do I differentiate between everyday stress and an anxiety disorder?",
+                "Is there a helpline or chat service for immediate assistance with anxiety?",
+                "How can I create a calming environment to alleviate anxiety?",
+                "Are there specific relaxation techniques effective in managing anxiety?",
+                "Can you provide tips for talking to a loved one about their anxiety?",
+                "What role does therapy play in treating anxiety?",
+                "How can I support someone experiencing a panic attack due to anxiety?",
+                "Are there specific dietary changes that can help alleviate anxiety symptoms?",
+                "I'm a student dealing with anxiety about exams. How can I cope?",
+                "How can I manage social anxiety in social situations?",
+                "What online communities exist for sharing experiences about living with anxiety?",
+                "How does exercise contribute to managing anxiety symptoms?",
+                "Can you recommend books or articles on overcoming anxiety?"
+            ],
+            "responses": [
+                "I'm sorry to hear that you're feeling overwhelmed with anxiety. It's important to talk to someone who can provide support. Reach out to friends, family, or consider speaking to a mental health professional.",
+                "Managing anxiety during stressful situations involves incorporating relaxation techniques, deep breathing, and mindfulness. Our website provides resources on coping with anxiety in various scenarios.",
+                "Dealing with anxiety can be challenging, but you're not alone. Our website offers resources on understanding and managing anxiety, including self-help strategies and information about professional support.",
+                "Self-help strategies for dealing with anxiety include deep breathing exercises, mindfulness, and progressive muscle relaxation. However, it's important to consult with a mental health professional for personalized advice.",
+                "Our website has a wealth of resources on anxiety, including articles, self-help strategies, and information on different treatment options. Take some time to explore and find the support you need.",
+                "Supporting a friend with anxiety involves being understanding, encouraging professional help, and offering a listening ear. Our website provides resources for both individuals struggling with anxiety and those supporting them.",
+                "Signs that anxiety may be becoming a serious issue include persistent worry, physical symptoms, and interference with daily activities. Consult with a mental health professional for a thorough evaluation.",
+                "Distinguishing between everyday stress and an anxiety disorder can be challenging. If you're experiencing persistent anxiety symptoms, it's advisable to consult with a mental health professional for an accurate assessment.",
+                "If you need immediate assistance, consider contacting a helpline or chat service. It's important to talk to someone about your feelings and seek support from professionals who can help you navigate through anxiety.",
+                "Creating a calming environment to alleviate anxiety involves incorporating soothing activities, such as relaxation music or aromatherapy. Our website provides tips on creating a stress-free space at home.",
+                "Relaxation techniques effective in managing anxiety include deep breathing, progressive muscle relaxation, and guided imagery. Our website offers resources and guidance on incorporating these techniques into your routine.",
+                "Talking to a loved one about their anxiety requires empathy and open communication. Our website provides tips and resources on approaching these conversations with sensitivity and understanding.",
+                "Therapy plays a crucial role in treating anxiety. Different therapeutic approaches, such as cognitive-behavioral therapy (CBT), can be effective in addressing anxiety symptoms. Consult with a mental health professional for personalized recommendations.",
+                "Supporting someone experiencing a panic attack due to anxiety involves staying calm, offering reassurance, and encouraging slow, deep breaths. Our website provides resources on helping someone through a panic attack.",
+                "Certain dietary changes, such as a balanced and nutritious diet, can complement anxiety management. Consult with a healthcare professional for guidance on dietary adjustments as part of a comprehensive treatment plan.",
+                "Managing anxiety about exams involves creating a study plan, practicing relaxation techniques, and seeking support from teachers or counselors. Our website provides resources on coping with academic-related anxiety.",
+                "Managing social anxiety in social situations involves gradual exposure, positive self-talk, and seeking support. Our website offers resources and tips for navigating social anxiety and building confidence.",
+                "Online communities for sharing experiences about living with anxiety can provide support and understanding. Our website features information on forums and communities where individuals can connect.",
+                "Exercise contributes to managing anxiety symptoms by releasing endorphins and reducing stress. Our website provides resources on incorporating exercise into your routine for mental health benefits.",
+                "Books and articles on overcoming anxiety can be valuable resources. Visit our website for recommendations and explore literature that aligns with your specific needs and preferences."
+            ]
+        },
+        {
+            "tag": "Social Anxiety",
+            "patterns": [
+                "How can I manage social anxiety in public settings?",
+                "What are some strategies for overcoming fear of social situations?",
+                "Is there information on your website about coping with social anxiety?",
+                "Can you recommend resources for understanding and managing social anxiety?",
+                "How do I differentiate between normal shyness and social anxiety?",
+                "I feel anxious in social situations. How can I build confidence?",
+                "Are there self-help strategies for dealing with social anxiety?",
+                "How can I support a friend with social anxiety?",
+                "What role does therapy play in treating social anxiety?",
+                "Are there online communities for sharing experiences about living with social anxiety?"
+            ],
+            "responses": [
+                "Managing social anxiety in public settings involves gradual exposure, positive self-talk, and seeking support. Our website provides resources on coping with social anxiety and building confidence.",
+                "Strategies for overcoming fear of social situations include practicing relaxation techniques, challenging negative thoughts, and gradually facing feared scenarios. Our website offers resources on overcoming social anxiety.",
+                "Dealing with social anxiety can be challenging, but you're not alone. Our website offers resources on understanding and managing social anxiety, including self-help strategies and information about professional support.",
+                "Our website has a wealth of resources on social anxiety, including articles, self-help strategies, and information on different treatment options. Take some time to explore and find the support you need.",
+                "Distinguishing between normal shyness and social anxiety involves assessing the impact on daily life and relationships. If social anxiety significantly interferes with functioning, consult with a mental health professional.",
+                "Building confidence in social situations involves practicing social skills, setting realistic goals, and challenging negative thoughts. Our website provides tips on boosting self-confidence for individuals with social anxiety.",
+                "Self-help strategies for dealing with social anxiety include deep breathing exercises, positive affirmations, and gradual exposure to social situations. However, it's important to consult with a mental health professional for personalized advice.",
+                "Supporting a friend with social anxiety involves being understanding, encouraging them to seek professional help, and providing a supportive presence in social settings. Our website offers resources for both individuals with social anxiety and those supporting them.",
+                "Therapy plays a crucial role in treating social anxiety. Different therapeutic approaches, such as cognitive-behavioral therapy (CBT), can be effective in addressing social anxiety symptoms. Consult with a mental health professional for personalized recommendations.",
+                "Online communities for sharing experiences about living with social anxiety can provide support and understanding. Our website features information on forums and communities where individuals can connect."
+            ]
+        },
+        {
+            "tag": "Anxiety Support for Friends",
+            "patterns": [
+                "My friend is dealing with anxiety. How can I support them?",
+                "What are some do's and don'ts when helping a friend with anxiety?",
+                "I want to be there for my friend with anxiety. How can I encourage them to seek professional help?",
+                "How can I educate myself about anxiety to better support my friend?",
+                "What are signs that my friend might be struggling with anxiety?",
+                "Are there support groups or communities for friends of individuals with anxiety?"
+            ],
+            "responses": [
+                "Supporting a friend with anxiety involves being there for them, listening without judgment, and encouraging them to seek professional help. Our website provides resources on supporting friends with anxiety.",
+                "Do's and don'ts when helping a friend with anxiety include offering empathy, avoiding judgment, and encouraging professional help. Our website provides a guide on effective ways to support a friend dealing with anxiety.",
+                "Encouraging your friend to seek professional help is crucial. Be empathetic, express your concern, and provide information on available resources. Our website offers guidance on supporting a friend through their journey with anxiety.",
+                "Educating yourself about anxiety is an important step in supporting your friend. Our website provides resources, articles, and information on understanding and helping friends with anxiety.",
+                "Signs that your friend might be struggling with anxiety include changes in behavior, heightened worry, and avoidance of certain situations. Our website provides information on recognizing and responding to these signs.",
+                "Support groups and communities for friends of individuals with anxiety can be valuable. Our website features information on online forums and local support groups where friends can connect and share experiences."
+            ]
+        },
+        {
+            "tag": "drug free himachal government",
+            "patterns": [
+                "How is this website different from Drug Free Himachal App?",
+                "Is this website related to the app by Himachal Government?",
+                "What additional functionalities does this offer than Drug free Himachal?"
+            ],
+            "responses": [
+                "The website offers a one stop solution to drug abuse prevention and reporting. Apart from anonymus incident reporting for drug-related issues, the website hosts a forum for users to share recovery stories anonymously, and provides a section for seeking help, including educational resources, online counseling, and connecting with student support. Authorities, such as hostel wardens, can register as admins, gaining access to a dashboard to view and manage incident reports, receive notifications on new reports via email and WhatsApp, access details of student support seekers, and verify registered employees.",
+                "The website serves as a comprehensive platform for drug abuse prevention and reporting. In addition to facilitating anonymous incident reporting, it features an anonymous recovery story forum and a help-seeking section with educational resources, online counseling, and student support connections. Authorities, like hostel wardens, can register as admins, accessing a dashboard for incident management, receiving email and WhatsApp notifications for new reports, viewing student support details, and verifying registered employees."
+            ]
+        },
+        {
+            "tag": "Identifying a Drug User",
+            "patterns": [
+                "How can I recognize if someone is using drugs?",
+                "What are the signs of drug use in a person?",
+                "Are there specific behaviors indicating drug use?",
+                "Can you help me identify if someone is using drugs?",
+                "What are the common indicators of drug abuse?",
+                "I suspect someone might be using drugs. What signs should I look for?",
+                "How do I know if a person is involved in substance abuse?",
+                "What behaviors suggest that someone may be using drugs?",
+                "Are there physical signs of drug use in individuals?",
+                "I want to understand the signs of drug use. Can you provide information?",
+                "How can I identify drug use in a friend or family member?",
+                "What are the behavioral changes associated with drug abuse?",
+                "Can you guide me on recognizing signs of drug use in someone close to me?",
+                "What physical and behavioral cues indicate drug use in a person?",
+                "I'm concerned about someone's behavior. How can I tell if it's related to drug use?"
+            ],
+            "responses": [
+                "Identifying a drug user involves observing various signs. Look for sudden mood swings, changes in temper, lack of appetite, bouts of drowsiness or sleeplessness, unsteady gait, nausea, body pain, extended time in the toilet, and inconsistent stories.",
+                "Recognizing a drug user often involves observing behavioral and physical changes. Watch for sudden mood swings, lack of appetite, drowsiness, unsteady gait, nausea, prolonged time in the toilet, and the presence of drug-related items like tablets, capsules, scorched foil, and syringes.",
+                "To identify a drug user, pay attention to behavioral cues such as sudden mood changes, lack of appetite, drowsiness, unsteady gait, prolonged time in the toilet, and consistent lies. Physical signs like nausea and the presence of drug-related items may also be indicators.",
+                "Identifying a person using drugs includes noticing signs like sudden mood swings, lack of appetite, drowsiness or sleeplessness, unsteady gait, nausea, extended time in the toilet, and the presence of items like tablets, capsules, scorched foil, and syringes.",
+                "Recognizing drug use involves observing behavioral changes such as sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Look for physical signs like nausea and the presence of drug-related items.",
+                "To identify drug use, observe for behavioral changes like sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Additionally, be attentive to physical signs such as nausea and the presence of drug-related paraphernalia.",
+                "Recognizing drug use includes observing behavioral changes like sudden mood swings, lack of appetite, drowsiness, unsteady gait, and extended time in the toilet. Additionally, be alert to consistent lies and signs like tablets, capsules, scorched foil, and syringes.",
+                "Identifying a drug user involves paying attention to behavioral indicators such as sudden mood changes, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Physical signs like nausea and the presence of drug-related items are also key.",
+                "To identify drug use, look for signs such as sudden mood swings, lack of appetite, drowsiness or sleeplessness, unsteady gait, nausea, prolonged time in the toilet, and the presence of drug-related items like tablets, capsules, scorched foil, and syringes.",
+                "Recognizing a drug user involves observing behavioral changes like sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Additionally, be alert to signs of lying and an increased demand for money or stealing.",
+                "Identifying drug use requires attention to behavioral cues such as sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Be mindful of signs like consistent lying and an increasing demand for money.",
+                "To recognize drug use, observe for behavioral changes like sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Additionally, be alert to signs of lying and a diminishing interest in job or extracurricular activities.",
+                "Identifying a drug user involves watching for behavioral changes like sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Look for signs like telling lies and a declining interest in job or extracurricular activities.",
+                "To identify drug use, pay attention to behavioral signs such as sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Additionally, look for signs like telling lies and an increasing demand for money or stealing.",
+                "Recognizing a drug user involves observing behavioral changes like sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Look for physical signs like nausea and the presence of drug-related items.",
+                "Identifying a drug user involves watching for behavioral changes like sudden mood swings, lack of appetite, drowsiness, unsteady gait, and prolonged time in the toilet. Look for signs like telling lies and an increasing demand for money or stealing."
+            ]
+        }
+    ]
+}
