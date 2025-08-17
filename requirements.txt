@@ -1,3 +1,5 @@
+fastapi
+uvicorn
 streamlit
 tensorflow
 numpy
