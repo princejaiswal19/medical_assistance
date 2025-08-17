@@ -4,3 +4,4 @@ streamlit
 tensorflow
 numpy
 scikit-learn
+pickle5
